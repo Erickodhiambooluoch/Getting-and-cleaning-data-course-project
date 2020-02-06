@@ -1,0 +1,6740 @@
+Codebook for dd3
+2020-02-05 16:17:42
+Number of variables	561
+Codebook summary table
+
+Label	Variable	Class	# unique values	Missing	Description
+	BodyAccmean()X
+numeric	2	0.00 %	
+	BodyAccmean()Y
+numeric	2	0.00 %	
+	BodyAccmean()Z
+numeric	2	0.00 %	
+	BodyAccstd()X
+numeric	2	0.00 %	
+	BodyAccstd()Y
+numeric	2	0.00 %	
+	BodyAccstd()Z
+numeric	2	0.00 %	
+	BodyAccmad()X
+numeric	2	0.00 %	
+	BodyAccmad()Y
+numeric	2	0.00 %	
+	BodyAccmad()Z
+numeric	2	0.00 %	
+	BodyAccmax()X
+numeric	2	0.00 %	
+	BodyAccmax()Y
+numeric	2	0.00 %	
+	BodyAccmax()Z
+numeric	2	0.00 %	
+	BodyAccmin()X
+numeric	2	0.00 %	
+	BodyAccmin()Y
+numeric	2	0.00 %	
+	BodyAccmin()Z
+numeric	2	0.00 %	
+	BodyAccsma()
+numeric	2	0.00 %	
+	BodyAccenergy()X
+numeric	2	0.00 %	
+	BodyAccenergy()Y
+numeric	2	0.00 %	
+	BodyAccenergy()Z
+numeric	2	0.00 %	
+	BodyAcciqr()X
+numeric	2	0.00 %	
+	BodyAcciqr()Y
+numeric	2	0.00 %	
+	BodyAcciqr()Z
+numeric	2	0.00 %	
+	BodyAccentropy()X
+numeric	2	0.00 %	
+	BodyAccentropy()Y
+numeric	2	0.00 %	
+	BodyAccentropy()Z
+numeric	2	0.00 %	
+	BodyAccarCoeff()X,1
+numeric	2	0.00 %	
+	BodyAccarCoeff()X,2
+numeric	2	0.00 %	
+	BodyAccarCoeff()X,3
+numeric	2	0.00 %	
+	BodyAccarCoeff()X,4
+numeric	2	0.00 %	
+	BodyAccarCoeff()Y,1
+numeric	2	0.00 %	
+	BodyAccarCoeff()Y,2
+numeric	2	0.00 %	
+	BodyAccarCoeff()Y,3
+numeric	2	0.00 %	
+	BodyAccarCoeff()Y,4
+numeric	2	0.00 %	
+	BodyAccarCoeff()Z,1
+numeric	2	0.00 %	
+	BodyAccarCoeff()Z,2
+numeric	2	0.00 %	
+	BodyAccarCoeff()Z,3
+numeric	2	0.00 %	
+	BodyAccarCoeff()Z,4
+numeric	2	0.00 %	
+	BodyAcccorrelation()X,Y
+numeric	2	0.00 %	
+	BodyAcccorrelation()X,Z
+numeric	2	0.00 %	
+	BodyAcccorrelation()Y,Z
+numeric	2	0.00 %	
+	GravityAccmean()X
+numeric	2	0.00 %	
+	GravityAccmean()Y
+numeric	2	0.00 %	
+	GravityAccmean()Z
+numeric	2	0.00 %	
+	GravityAccstd()X
+numeric	2	0.00 %	
+	GravityAccstd()Y
+numeric	2	0.00 %	
+	GravityAccstd()Z
+numeric	2	0.00 %	
+	GravityAccmad()X
+numeric	2	0.00 %	
+	GravityAccmad()Y
+numeric	2	0.00 %	
+	GravityAccmad()Z
+numeric	2	0.00 %	
+	GravityAccmax()X
+numeric	2	0.00 %	
+	GravityAccmax()Y
+numeric	2	0.00 %	
+	GravityAccmax()Z
+numeric	2	0.00 %	
+	GravityAccmin()X
+numeric	2	0.00 %	
+	GravityAccmin()Y
+numeric	2	0.00 %	
+	GravityAccmin()Z
+numeric	2	0.00 %	
+	GravityAccsma()
+numeric	2	0.00 %	
+	GravityAccenergy()X
+numeric	2	0.00 %	
+	GravityAccenergy()Y
+numeric	2	0.00 %	
+	GravityAccenergy()Z
+numeric	2	0.00 %	
+	GravityAcciqr()X
+numeric	2	0.00 %	
+	GravityAcciqr()Y
+numeric	2	0.00 %	
+	GravityAcciqr()Z
+numeric	2	0.00 %	
+	GravityAccentropy()X
+numeric	2	0.00 %	
+	GravityAccentropy()Y
+numeric	2	0.00 %	
+	GravityAccentropy()Z
+numeric	2	0.00 %	
+	GravityAccarCoeff()X,1
+numeric	2	0.00 %	
+	GravityAccarCoeff()X,2
+numeric	2	0.00 %	
+	GravityAccarCoeff()X,3
+numeric	2	0.00 %	
+	GravityAccarCoeff()X,4
+numeric	2	0.00 %	
+	GravityAccarCoeff()Y,1
+numeric	2	0.00 %	
+	GravityAccarCoeff()Y,2
+numeric	2	0.00 %	
+	GravityAccarCoeff()Y,3
+numeric	2	0.00 %	
+	GravityAccarCoeff()Y,4
+numeric	2	0.00 %	
+	GravityAccarCoeff()Z,1
+numeric	2	0.00 %	
+	GravityAccarCoeff()Z,2
+numeric	2	0.00 %	
+	GravityAccarCoeff()Z,3
+numeric	2	0.00 %	
+	GravityAccarCoeff()Z,4
+numeric	2	0.00 %	
+	GravityAcccorrelation()X,Y
+numeric	2	0.00 %	
+	GravityAcccorrelation()X,Z
+numeric	2	0.00 %	
+	GravityAcccorrelation()Y,Z
+numeric	2	0.00 %	
+	BodyAccJerkmean()X
+numeric	2	0.00 %	
+	BodyAccJerkmean()Y
+numeric	2	0.00 %	
+	BodyAccJerkmean()Z
+numeric	2	0.00 %	
+	BodyAccJerkstd()X
+numeric	2	0.00 %	
+	BodyAccJerkstd()Y
+numeric	2	0.00 %	
+	BodyAccJerkstd()Z
+numeric	2	0.00 %	
+	BodyAccJerkmad()X
+numeric	2	0.00 %	
+	BodyAccJerkmad()Y
+numeric	2	0.00 %	
+	BodyAccJerkmad()Z
+numeric	2	0.00 %	
+	BodyAccJerkmax()X
+numeric	2	0.00 %	
+	BodyAccJerkmax()Y
+numeric	2	0.00 %	
+	BodyAccJerkmax()Z
+numeric	2	0.00 %	
+	BodyAccJerkmin()X
+numeric	2	0.00 %	
+	BodyAccJerkmin()Y
+numeric	2	0.00 %	
+	BodyAccJerkmin()Z
+numeric	2	0.00 %	
+	BodyAccJerksma()
+numeric	2	0.00 %	
+	BodyAccJerkenergy()X
+numeric	2	0.00 %	
+	BodyAccJerkenergy()Y
+numeric	2	0.00 %	
+	BodyAccJerkenergy()Z
+numeric	2	0.00 %	
+	BodyAccJerkiqr()X
+numeric	2	0.00 %	
+	BodyAccJerkiqr()Y
+numeric	2	0.00 %	
+	BodyAccJerkiqr()Z
+numeric	2	0.00 %	
+	BodyAccJerkentropy()X
+numeric	2	0.00 %	
+	BodyAccJerkentropy()Y
+numeric	2	0.00 %	
+	BodyAccJerkentropy()Z
+numeric	2	0.00 %	
+	BodyAccJerkarCoeff()X,1
+numeric	2	0.00 %	
+	BodyAccJerkarCoeff()X,2
+numeric	2	0.00 %	
+	BodyAccJerkarCoeff()X,3
+numeric	2	0.00 %	
+	BodyAccJerkarCoeff()X,4
+numeric	2	0.00 %	
+	BodyAccJerkarCoeff()Y,1
+numeric	2	0.00 %	
+	BodyAccJerkarCoeff()Y,2
+numeric	2	0.00 %	
+	BodyAccJerkarCoeff()Y,3
+numeric	2	0.00 %	
+	BodyAccJerkarCoeff()Y,4
+numeric	2	0.00 %	
+	BodyAccJerkarCoeff()Z,1
+numeric	2	0.00 %	
+	BodyAccJerkarCoeff()Z,2
+numeric	2	0.00 %	
+	BodyAccJerkarCoeff()Z,3
+numeric	2	0.00 %	
+	BodyAccJerkarCoeff()Z,4
+numeric	2	0.00 %	
+	BodyAccJerkcorrelation()X,Y
+numeric	2	0.00 %	
+	BodyAccJerkcorrelation()X,Z
+numeric	2	0.00 %	
+	BodyAccJerkcorrelation()Y,Z
+numeric	2	0.00 %	
+	BodyGyromean()X
+numeric	2	0.00 %	
+	BodyGyromean()Y
+numeric	2	0.00 %	
+	BodyGyromean()Z
+numeric	2	0.00 %	
+	BodyGyrostd()X
+numeric	2	0.00 %	
+	BodyGyrostd()Y
+numeric	2	0.00 %	
+	BodyGyrostd()Z
+numeric	2	0.00 %	
+	BodyGyromad()X
+numeric	2	0.00 %	
+	BodyGyromad()Y
+numeric	2	0.00 %	
+	BodyGyromad()Z
+numeric	2	0.00 %	
+	BodyGyromax()X
+numeric	2	0.00 %	
+	BodyGyromax()Y
+numeric	2	0.00 %	
+	BodyGyromax()Z
+numeric	2	0.00 %	
+	BodyGyromin()X
+numeric	2	0.00 %	
+	BodyGyromin()Y
+numeric	2	0.00 %	
+	BodyGyromin()Z
+numeric	2	0.00 %	
+	BodyGyrosma()
+numeric	2	0.00 %	
+	BodyGyroenergy()X
+numeric	2	0.00 %	
+	BodyGyroenergy()Y
+numeric	2	0.00 %	
+	BodyGyroenergy()Z
+numeric	2	0.00 %	
+	BodyGyroiqr()X
+numeric	2	0.00 %	
+	BodyGyroiqr()Y
+numeric	2	0.00 %	
+	BodyGyroiqr()Z
+numeric	2	0.00 %	
+	BodyGyroentropy()X
+numeric	2	0.00 %	
+	BodyGyroentropy()Y
+numeric	2	0.00 %	
+	BodyGyroentropy()Z
+numeric	2	0.00 %	
+	BodyGyroarCoeff()X,1
+numeric	2	0.00 %	
+	BodyGyroarCoeff()X,2
+numeric	2	0.00 %	
+	BodyGyroarCoeff()X,3
+numeric	2	0.00 %	
+	BodyGyroarCoeff()X,4
+numeric	2	0.00 %	
+	BodyGyroarCoeff()Y,1
+numeric	2	0.00 %	
+	BodyGyroarCoeff()Y,2
+numeric	2	0.00 %	
+	BodyGyroarCoeff()Y,3
+numeric	2	0.00 %	
+	BodyGyroarCoeff()Y,4
+numeric	2	0.00 %	
+	BodyGyroarCoeff()Z,1
+numeric	2	0.00 %	
+	BodyGyroarCoeff()Z,2
+numeric	2	0.00 %	
+	BodyGyroarCoeff()Z,3
+numeric	2	0.00 %	
+	BodyGyroarCoeff()Z,4
+numeric	2	0.00 %	
+	BodyGyrocorrelation()X,Y
+numeric	2	0.00 %	
+	BodyGyrocorrelation()X,Z
+numeric	2	0.00 %	
+	BodyGyrocorrelation()Y,Z
+numeric	2	0.00 %	
+	BodyGyroJerkmean()X
+numeric	2	0.00 %	
+	BodyGyroJerkmean()Y
+numeric	2	0.00 %	
+	BodyGyroJerkmean()Z
+numeric	2	0.00 %	
+	BodyGyroJerkstd()X
+numeric	2	0.00 %	
+	BodyGyroJerkstd()Y
+numeric	2	0.00 %	
+	BodyGyroJerkstd()Z
+numeric	2	0.00 %	
+	BodyGyroJerkmad()X
+numeric	2	0.00 %	
+	BodyGyroJerkmad()Y
+numeric	2	0.00 %	
+	BodyGyroJerkmad()Z
+numeric	2	0.00 %	
+	BodyGyroJerkmax()X
+numeric	2	0.00 %	
+	BodyGyroJerkmax()Y
+numeric	2	0.00 %	
+	BodyGyroJerkmax()Z
+numeric	2	0.00 %	
+	BodyGyroJerkmin()X
+numeric	2	0.00 %	
+	BodyGyroJerkmin()Y
+numeric	2	0.00 %	
+	BodyGyroJerkmin()Z
+numeric	2	0.00 %	
+	BodyGyroJerksma()
+numeric	2	0.00 %	
+	BodyGyroJerkenergy()X
+numeric	2	0.00 %	
+	BodyGyroJerkenergy()Y
+numeric	2	0.00 %	
+	BodyGyroJerkenergy()Z
+numeric	2	0.00 %	
+	BodyGyroJerkiqr()X
+numeric	2	0.00 %	
+	BodyGyroJerkiqr()Y
+numeric	2	0.00 %	
+	BodyGyroJerkiqr()Z
+numeric	2	0.00 %	
+	BodyGyroJerkentropy()X
+numeric	2	0.00 %	
+	BodyGyroJerkentropy()Y
+numeric	2	0.00 %	
+	BodyGyroJerkentropy()Z
+numeric	2	0.00 %	
+	BodyGyroJerkarCoeff()X,1
+numeric	2	0.00 %	
+	BodyGyroJerkarCoeff()X,2
+numeric	2	0.00 %	
+	BodyGyroJerkarCoeff()X,3
+numeric	2	0.00 %	
+	BodyGyroJerkarCoeff()X,4
+numeric	2	0.00 %	
+	BodyGyroJerkarCoeff()Y,1
+numeric	2	0.00 %	
+	BodyGyroJerkarCoeff()Y,2
+numeric	2	0.00 %	
+	BodyGyroJerkarCoeff()Y,3
+numeric	2	0.00 %	
+	BodyGyroJerkarCoeff()Y,4
+numeric	2	0.00 %	
+	BodyGyroJerkarCoeff()Z,1
+numeric	2	0.00 %	
+	BodyGyroJerkarCoeff()Z,2
+numeric	2	0.00 %	
+	BodyGyroJerkarCoeff()Z,3
+numeric	2	0.00 %	
+	BodyGyroJerkarCoeff()Z,4
+numeric	2	0.00 %	
+	BodyGyroJerkcorrelation()X,Y
+numeric	2	0.00 %	
+	BodyGyroJerkcorrelation()X,Z
+numeric	2	0.00 %	
+	BodyGyroJerkcorrelation()Y,Z
+numeric	2	0.00 %	
+	BodyAccMagmean()
+numeric	2	0.00 %	
+	BodyAccMagstd()
+numeric	2	0.00 %	
+	BodyAccMagmad()
+numeric	2	0.00 %	
+	BodyAccMagmax()
+numeric	2	0.00 %	
+	BodyAccMagmin()
+numeric	2	0.00 %	
+	BodyAccMagsma()
+numeric	2	0.00 %	
+	BodyAccMagenergy()
+numeric	2	0.00 %	
+	BodyAccMagiqr()
+numeric	2	0.00 %	
+	BodyAccMagentropy()
+numeric	2	0.00 %	
+	BodyAccMagarCoeff()1
+numeric	2	0.00 %	
+	BodyAccMagarCoeff()2
+numeric	2	0.00 %	
+	BodyAccMagarCoeff()3
+numeric	2	0.00 %	
+	BodyAccMagarCoeff()4
+numeric	2	0.00 %	
+	GravityAccMagmean()
+numeric	2	0.00 %	
+	GravityAccMagstd()
+numeric	2	0.00 %	
+	GravityAccMagmad()
+numeric	2	0.00 %	
+	GravityAccMagmax()
+numeric	2	0.00 %	
+	GravityAccMagmin()
+numeric	2	0.00 %	
+	GravityAccMagsma()
+numeric	2	0.00 %	
+	GravityAccMagenergy()
+numeric	2	0.00 %	
+	GravityAccMagiqr()
+numeric	2	0.00 %	
+	GravityAccMagentropy()
+numeric	2	0.00 %	
+	GravityAccMagarCoeff()1
+numeric	2	0.00 %	
+	GravityAccMagarCoeff()2
+numeric	2	0.00 %	
+	GravityAccMagarCoeff()3
+numeric	2	0.00 %	
+	GravityAccMagarCoeff()4
+numeric	2	0.00 %	
+	BodyAccJerkMagmean()
+numeric	2	0.00 %	
+	BodyAccJerkMagstd()
+numeric	2	0.00 %	
+	BodyAccJerkMagmad()
+numeric	2	0.00 %	
+	BodyAccJerkMagmax()
+numeric	2	0.00 %	
+	BodyAccJerkMagmin()
+numeric	2	0.00 %	
+	BodyAccJerkMagsma()
+numeric	2	0.00 %	
+	BodyAccJerkMagenergy()
+numeric	2	0.00 %	
+	BodyAccJerkMagiqr()
+numeric	2	0.00 %	
+	BodyAccJerkMagentropy()
+numeric	2	0.00 %	
+	BodyAccJerkMagarCoeff()1
+numeric	2	0.00 %	
+	BodyAccJerkMagarCoeff()2
+numeric	2	0.00 %	
+	BodyAccJerkMagarCoeff()3
+numeric	2	0.00 %	
+	BodyAccJerkMagarCoeff()4
+numeric	2	0.00 %	
+	BodyGyroMagmean()
+numeric	2	0.00 %	
+	BodyGyroMagstd()
+numeric	2	0.00 %	
+	BodyGyroMagmad()
+numeric	2	0.00 %	
+	BodyGyroMagmax()
+numeric	2	0.00 %	
+	BodyGyroMagmin()
+numeric	2	0.00 %	
+	BodyGyroMagsma()
+numeric	2	0.00 %	
+	BodyGyroMagenergy()
+numeric	2	0.00 %	
+	BodyGyroMagiqr()
+numeric	2	0.00 %	
+	BodyGyroMagentropy()
+numeric	2	0.00 %	
+	BodyGyroMagarCoeff()1
+numeric	2	0.00 %	
+	BodyGyroMagarCoeff()2
+numeric	2	0.00 %	
+	BodyGyroMagarCoeff()3
+numeric	2	0.00 %	
+	BodyGyroMagarCoeff()4
+numeric	2	0.00 %	
+	BodyGyroJerkMagmean()
+numeric	2	0.00 %	
+	BodyGyroJerkMagstd()
+numeric	2	0.00 %	
+	BodyGyroJerkMagmad()
+numeric	2	0.00 %	
+	BodyGyroJerkMagmax()
+numeric	2	0.00 %	
+	BodyGyroJerkMagmin()
+numeric	2	0.00 %	
+	BodyGyroJerkMagsma()
+numeric	2	0.00 %	
+	BodyGyroJerkMagenergy()
+numeric	2	0.00 %	
+	BodyGyroJerkMagiqr()
+numeric	2	0.00 %	
+	BodyGyroJerkMagentropy()
+numeric	2	0.00 %	
+	BodyGyroJerkMagarCoeff()1
+numeric	2	0.00 %	
+	BodyGyroJerkMagarCoeff()2
+numeric	2	0.00 %	
+	BodyGyroJerkMagarCoeff()3
+numeric	2	0.00 %	
+	BodyGyroJerkMagarCoeff()4
+numeric	2	0.00 %	
+	V266
+numeric	2	0.00 %	
+	V267
+numeric	2	0.00 %	
+	V268
+numeric	2	0.00 %	
+	V269
+numeric	2	0.00 %	
+	V270
+numeric	2	0.00 %	
+	V271
+numeric	2	0.00 %	
+	V272
+numeric	2	0.00 %	
+	V273
+numeric	2	0.00 %	
+	V274
+numeric	2	0.00 %	
+	V275
+numeric	2	0.00 %	
+	V276
+numeric	2	0.00 %	
+	V277
+numeric	2	0.00 %	
+	V278
+numeric	2	0.00 %	
+	V279
+numeric	2	0.00 %	
+	V280
+numeric	2	0.00 %	
+	V281
+numeric	2	0.00 %	
+	V282
+numeric	2	0.00 %	
+	V283
+numeric	2	0.00 %	
+	V284
+numeric	2	0.00 %	
+	V285
+numeric	2	0.00 %	
+	V286
+numeric	2	0.00 %	
+	V287
+numeric	2	0.00 %	
+	V288
+numeric	2	0.00 %	
+	V289
+numeric	2	0.00 %	
+	V290
+numeric	2	0.00 %	
+	BodyAccmaxIndsX
+numeric	2	0.00 %	
+	BodyAccmaxIndsY
+numeric	2	0.00 %	
+	BodyAccmaxIndsZ
+numeric	2	0.00 %	
+	BodyAccmeanFreq()X
+numeric	2	0.00 %	
+	BodyAccmeanFreq()Y
+numeric	2	0.00 %	
+	BodyAccmeanFreq()Z
+numeric	2	0.00 %	
+	BodyAccskewness()X
+numeric	2	0.00 %	
+	BodyAcckurtosis()X
+numeric	2	0.00 %	
+	BodyAccskewness()Y
+numeric	2	0.00 %	
+	BodyAcckurtosis()Y
+numeric	2	0.00 %	
+	BodyAccskewness()Z
+numeric	2	0.00 %	
+	BodyAcckurtosis()Z
+numeric	2	0.00 %	
+	BodyAccbandsEnergy()1,8
+numeric	2	0.00 %	
+	BodyAccbandsEnergy()9,16
+numeric	2	0.00 %	
+	BodyAccbandsEnergy()17,24
+numeric	2	0.00 %	
+	BodyAccbandsEnergy()25,32
+numeric	2	0.00 %	
+	BodyAccbandsEnergy()33,40
+numeric	2	0.00 %	
+	BodyAccbandsEnergy()41,48
+numeric	2	0.00 %	
+	BodyAccbandsEnergy()49,56
+numeric	2	0.00 %	
+	BodyAccbandsEnergy()57,64
+numeric	2	0.00 %	
+	BodyAccbandsEnergy()1,16
+numeric	2	0.00 %	
+	BodyAccbandsEnergy()17,32
+numeric	2	0.00 %	
+	BodyAccbandsEnergy()33,48
+numeric	2	0.00 %	
+	BodyAccbandsEnergy()49,64
+numeric	2	0.00 %	
+	BodyAccbandsEnergy()1,24
+numeric	2	0.00 %	
+	BodyAccbandsEnergy()25,48
+numeric	2	0.00 %	
+	V317
+numeric	2	0.00 %	
+	V318
+numeric	2	0.00 %	
+	V319
+numeric	2	0.00 %	
+	V320
+numeric	2	0.00 %	
+	V321
+numeric	2	0.00 %	
+	V322
+numeric	2	0.00 %	
+	V323
+numeric	2	0.00 %	
+	V324
+numeric	2	0.00 %	
+	V325
+numeric	2	0.00 %	
+	V326
+numeric	2	0.00 %	
+	V327
+numeric	2	0.00 %	
+	V328
+numeric	2	0.00 %	
+	V329
+numeric	2	0.00 %	
+	V330
+numeric	2	0.00 %	
+	V331
+numeric	2	0.00 %	
+	V332
+numeric	2	0.00 %	
+	V333
+numeric	2	0.00 %	
+	V334
+numeric	2	0.00 %	
+	V335
+numeric	2	0.00 %	
+	V336
+numeric	2	0.00 %	
+	V337
+numeric	2	0.00 %	
+	V338
+numeric	2	0.00 %	
+	V339
+numeric	2	0.00 %	
+	V340
+numeric	2	0.00 %	
+	V341
+numeric	2	0.00 %	
+	V342
+numeric	2	0.00 %	
+	V343
+numeric	2	0.00 %	
+	V344
+numeric	2	0.00 %	
+	V345
+numeric	2	0.00 %	
+	V346
+numeric	2	0.00 %	
+	V347
+numeric	2	0.00 %	
+	V348
+numeric	2	0.00 %	
+	V349
+numeric	2	0.00 %	
+	V350
+numeric	2	0.00 %	
+	V351
+numeric	2	0.00 %	
+	V352
+numeric	2	0.00 %	
+	V353
+numeric	2	0.00 %	
+	V354
+numeric	2	0.00 %	
+	V355
+numeric	2	0.00 %	
+	V356
+numeric	2	0.00 %	
+	V357
+numeric	2	0.00 %	
+	V358
+numeric	2	0.00 %	
+	V359
+numeric	2	0.00 %	
+	V360
+numeric	2	0.00 %	
+	V361
+numeric	2	0.00 %	
+	V362
+numeric	2	0.00 %	
+	V363
+numeric	2	0.00 %	
+	V364
+numeric	2	0.00 %	
+	V365
+numeric	2	0.00 %	
+	V366
+numeric	2	0.00 %	
+	V367
+numeric	2	0.00 %	
+	V368
+numeric	2	0.00 %	
+	V369
+numeric	2	0.00 %	
+	BodyAccJerkmaxIndsX
+numeric	2	0.00 %	
+	BodyAccJerkmaxIndsY
+numeric	2	0.00 %	
+	BodyAccJerkmaxIndsZ
+numeric	2	0.00 %	
+	BodyAccJerkmeanFreq()X
+numeric	2	0.00 %	
+	BodyAccJerkmeanFreq()Y
+numeric	2	0.00 %	
+	BodyAccJerkmeanFreq()Z
+numeric	2	0.00 %	
+	BodyAccJerkskewness()X
+numeric	2	0.00 %	
+	BodyAccJerkkurtosis()X
+numeric	2	0.00 %	
+	BodyAccJerkskewness()Y
+numeric	2	0.00 %	
+	BodyAccJerkkurtosis()Y
+numeric	2	0.00 %	
+	BodyAccJerkskewness()Z
+numeric	2	0.00 %	
+	BodyAccJerkkurtosis()Z
+numeric	2	0.00 %	
+	BodyAccJerkbandsEnergy()1,8
+numeric	2	0.00 %	
+	BodyAccJerkbandsEnergy()9,16
+numeric	2	0.00 %	
+	BodyAccJerkbandsEnergy()17,24
+numeric	2	0.00 %	
+	BodyAccJerkbandsEnergy()25,32
+numeric	2	0.00 %	
+	BodyAccJerkbandsEnergy()33,40
+numeric	2	0.00 %	
+	BodyAccJerkbandsEnergy()41,48
+numeric	2	0.00 %	
+	BodyAccJerkbandsEnergy()49,56
+numeric	2	0.00 %	
+	BodyAccJerkbandsEnergy()57,64
+numeric	2	0.00 %	
+	BodyAccJerkbandsEnergy()1,16
+numeric	2	0.00 %	
+	BodyAccJerkbandsEnergy()17,32
+numeric	2	0.00 %	
+	BodyAccJerkbandsEnergy()33,48
+numeric	2	0.00 %	
+	BodyAccJerkbandsEnergy()49,64
+numeric	2	0.00 %	
+	BodyAccJerkbandsEnergy()1,24
+numeric	2	0.00 %	
+	BodyAccJerkbandsEnergy()25,48
+numeric	2	0.00 %	
+	V396
+numeric	2	0.00 %	
+	V397
+numeric	2	0.00 %	
+	V398
+numeric	2	0.00 %	
+	V399
+numeric	2	0.00 %	
+	V400
+numeric	2	0.00 %	
+	V401
+numeric	2	0.00 %	
+	V402
+numeric	2	0.00 %	
+	V403
+numeric	2	0.00 %	
+	V404
+numeric	2	0.00 %	
+	V405
+numeric	2	0.00 %	
+	V406
+numeric	2	0.00 %	
+	V407
+numeric	2	0.00 %	
+	V408
+numeric	2	0.00 %	
+	V409
+numeric	2	0.00 %	
+	V410
+numeric	2	0.00 %	
+	V411
+numeric	2	0.00 %	
+	V412
+numeric	2	0.00 %	
+	V413
+numeric	2	0.00 %	
+	V414
+numeric	2	0.00 %	
+	V415
+numeric	2	0.00 %	
+	V416
+numeric	2	0.00 %	
+	V417
+numeric	2	0.00 %	
+	V418
+numeric	2	0.00 %	
+	V419
+numeric	2	0.00 %	
+	V420
+numeric	2	0.00 %	
+	V421
+numeric	2	0.00 %	
+	V422
+numeric	2	0.00 %	
+	V423
+numeric	2	0.00 %	
+	V424
+numeric	2	0.00 %	
+	V425
+numeric	2	0.00 %	
+	V426
+numeric	2	0.00 %	
+	V427
+numeric	2	0.00 %	
+	V428
+numeric	2	0.00 %	
+	V429
+numeric	2	0.00 %	
+	V430
+numeric	2	0.00 %	
+	V431
+numeric	2	0.00 %	
+	V432
+numeric	2	0.00 %	
+	V433
+numeric	2	0.00 %	
+	V434
+numeric	2	0.00 %	
+	V435
+numeric	2	0.00 %	
+	V436
+numeric	2	0.00 %	
+	V437
+numeric	2	0.00 %	
+	V438
+numeric	2	0.00 %	
+	V439
+numeric	2	0.00 %	
+	V440
+numeric	2	0.00 %	
+	V441
+numeric	2	0.00 %	
+	V442
+numeric	2	0.00 %	
+	V443
+numeric	2	0.00 %	
+	V444
+numeric	2	0.00 %	
+	V445
+numeric	2	0.00 %	
+	V446
+numeric	2	0.00 %	
+	V447
+numeric	2	0.00 %	
+	V448
+numeric	2	0.00 %	
+	BodyGyromaxIndsX
+numeric	2	0.00 %	
+	BodyGyromaxIndsY
+numeric	2	0.00 %	
+	BodyGyromaxIndsZ
+numeric	2	0.00 %	
+	BodyGyromeanFreq()X
+numeric	2	0.00 %	
+	BodyGyromeanFreq()Y
+numeric	2	0.00 %	
+	BodyGyromeanFreq()Z
+numeric	2	0.00 %	
+	BodyGyroskewness()X
+numeric	2	0.00 %	
+	BodyGyrokurtosis()X
+numeric	2	0.00 %	
+	BodyGyroskewness()Y
+numeric	2	0.00 %	
+	BodyGyrokurtosis()Y
+numeric	2	0.00 %	
+	BodyGyroskewness()Z
+numeric	2	0.00 %	
+	BodyGyrokurtosis()Z
+numeric	2	0.00 %	
+	BodyGyrobandsEnergy()1,8
+numeric	2	0.00 %	
+	BodyGyrobandsEnergy()9,16
+numeric	2	0.00 %	
+	BodyGyrobandsEnergy()17,24
+numeric	2	0.00 %	
+	BodyGyrobandsEnergy()25,32
+numeric	2	0.00 %	
+	BodyGyrobandsEnergy()33,40
+numeric	2	0.00 %	
+	BodyGyrobandsEnergy()41,48
+numeric	2	0.00 %	
+	BodyGyrobandsEnergy()49,56
+numeric	2	0.00 %	
+	BodyGyrobandsEnergy()57,64
+numeric	2	0.00 %	
+	BodyGyrobandsEnergy()1,16
+numeric	2	0.00 %	
+	BodyGyrobandsEnergy()17,32
+numeric	2	0.00 %	
+	BodyGyrobandsEnergy()33,48
+numeric	2	0.00 %	
+	BodyGyrobandsEnergy()49,64
+numeric	2	0.00 %	
+	BodyGyrobandsEnergy()1,24
+numeric	2	0.00 %	
+	BodyGyrobandsEnergy()25,48
+numeric	2	0.00 %	
+	V475
+numeric	2	0.00 %	
+	V476
+numeric	2	0.00 %	
+	V477
+numeric	2	0.00 %	
+	V478
+numeric	2	0.00 %	
+	V479
+numeric	2	0.00 %	
+	V480
+numeric	2	0.00 %	
+	V481
+numeric	2	0.00 %	
+	V482
+numeric	2	0.00 %	
+	V483
+numeric	2	0.00 %	
+	V484
+numeric	2	0.00 %	
+	V485
+numeric	2	0.00 %	
+	V486
+numeric	2	0.00 %	
+	V487
+numeric	2	0.00 %	
+	V488
+numeric	2	0.00 %	
+	V489
+numeric	2	0.00 %	
+	V490
+numeric	2	0.00 %	
+	V491
+numeric	2	0.00 %	
+	V492
+numeric	2	0.00 %	
+	V493
+numeric	2	0.00 %	
+	V494
+numeric	2	0.00 %	
+	V495
+numeric	2	0.00 %	
+	V496
+numeric	2	0.00 %	
+	V497
+numeric	2	0.00 %	
+	V498
+numeric	2	0.00 %	
+	V499
+numeric	2	0.00 %	
+	V500
+numeric	2	0.00 %	
+	V501
+numeric	2	0.00 %	
+	V502
+numeric	2	0.00 %	
+	V503
+numeric	2	0.00 %	
+	V504
+numeric	2	0.00 %	
+	V505
+numeric	2	0.00 %	
+	V506
+numeric	2	0.00 %	
+	V507
+numeric	2	0.00 %	
+	V508
+numeric	2	0.00 %	
+	V509
+numeric	2	0.00 %	
+	V510
+numeric	2	0.00 %	
+	V511
+numeric	2	0.00 %	
+	BodyAccMagmaxInds
+numeric	2	0.00 %	
+	BodyAccMagmeanFreq()
+numeric	2	0.00 %	
+	BodyAccMagskewness()
+numeric	2	0.00 %	
+	BodyAccMagkurtosis()
+numeric	2	0.00 %	
+	BodyBodyAccJerkMagmean()
+numeric	2	0.00 %	
+	BodyBodyAccJerkMagstd()
+numeric	2	0.00 %	
+	BodyBodyAccJerkMagmad()
+numeric	2	0.00 %	
+	BodyBodyAccJerkMagmax()
+numeric	2	0.00 %	
+	BodyBodyAccJerkMagmin()
+numeric	2	0.00 %	
+	BodyBodyAccJerkMagsma()
+numeric	2	0.00 %	
+	BodyBodyAccJerkMagenergy()
+numeric	2	0.00 %	
+	BodyBodyAccJerkMagiqr()
+numeric	2	0.00 %	
+	BodyBodyAccJerkMagentropy()
+numeric	2	0.00 %	
+	BodyBodyAccJerkMagmaxInds
+numeric	2	0.00 %	
+	BodyBodyAccJerkMagmeanFreq()
+numeric	2	0.00 %	
+	BodyBodyAccJerkMagskewness()
+numeric	2	0.00 %	
+	BodyBodyAccJerkMagkurtosis()
+numeric	2	0.00 %	
+	BodyBodyGyroMagmean()
+numeric	2	0.00 %	
+	BodyBodyGyroMagstd()
+numeric	2	0.00 %	
+	BodyBodyGyroMagmad()
+numeric	2	0.00 %	
+	BodyBodyGyroMagmax()
+numeric	2	0.00 %	
+	BodyBodyGyroMagmin()
+numeric	2	0.00 %	
+	BodyBodyGyroMagsma()
+numeric	2	0.00 %	
+	BodyBodyGyroMagenergy()
+numeric	2	0.00 %	
+	BodyBodyGyroMagiqr()
+numeric	2	0.00 %	
+	BodyBodyGyroMagentropy()
+numeric	2	0.00 %	
+	BodyBodyGyroMagmaxInds
+numeric	2	0.00 %	
+	BodyBodyGyroMagmeanFreq()
+numeric	2	0.00 %	
+	BodyBodyGyroMagskewness()
+numeric	2	0.00 %	
+	BodyBodyGyroMagkurtosis()
+numeric	2	0.00 %	
+	BodyBodyGyroJerkMagmean()
+numeric	2	0.00 %	
+	BodyBodyGyroJerkMagstd()
+numeric	2	0.00 %	
+	BodyBodyGyroJerkMagmad()
+numeric	2	0.00 %	
+	BodyBodyGyroJerkMagmax()
+numeric	2	0.00 %	
+	BodyBodyGyroJerkMagmin()
+numeric	2	0.00 %	
+	BodyBodyGyroJerkMagsma()
+numeric	2	0.00 %	
+	BodyBodyGyroJerkMagenergy()
+numeric	2	0.00 %	
+	BodyBodyGyroJerkMagiqr()
+numeric	2	0.00 %	
+	BodyBodyGyroJerkMagentropy()
+numeric	2	0.00 %	
+	BodyBodyGyroJerkMagmaxInds
+numeric	2	0.00 %	
+	BodyBodyGyroJerkMagmeanFreq()
+numeric	2	0.00 %	
+	BodyBodyGyroJerkMagskewness()
+numeric	2	0.00 %	
+	BodyBodyGyroJerkMagkurtosis()
+numeric	2	0.00 %	
+	ngle(tBodyAccMean,gravity)
+numeric	2	0.00 %	
+	ngle(tBodyAccJerkMean),gravit
+numeric	2	0.00 %	
+	ngle(tBodyGyroMean,gravityMea
+numeric	2	0.00 %	
+	ngle(tBodyGyroJerkMean,gravit
+numeric	2	0.00 %	
+	ngle(X,gravityMean)
+numeric	2	0.00 %	
+	ngle(Y,gravityMean)
+numeric	2	0.00 %	
+	ngle(Z,gravityMean)
+numeric	2	0.00 %	
+Variable list
+BodyAccmean()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.28
+1st and 3rd quartiles	0.28; 0.28
+Min. and max.	0.27; 0.28
+ 
+________________________________________
+BodyAccmean()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.02
+1st and 3rd quartiles	-0.02; -0.02
+Min. and max.	-0.02; -0.02
+ 
+________________________________________
+BodyAccmean()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.11
+1st and 3rd quartiles	-0.11; -0.11
+Min. and max.	-0.11; -0.11
+ 
+________________________________________
+BodyAccstd()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.78
+1st and 3rd quartiles	-0.86; -0.69
+Min. and max.	-0.94; -0.61
+ 
+________________________________________
+BodyAccstd()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.67
+1st and 3rd quartiles	-0.75; -0.59
+Min. and max.	-0.84; -0.51
+ 
+________________________________________
+BodyAccstd()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.73
+1st and 3rd quartiles	-0.79; -0.67
+Min. and max.	-0.85; -0.61
+ 
+________________________________________
+BodyAccmad()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.79
+1st and 3rd quartiles	-0.87; -0.71
+Min. and max.	-0.95; -0.63
+ 
+________________________________________
+BodyAccmad()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.68
+1st and 3rd quartiles	-0.76; -0.61
+Min. and max.	-0.84; -0.53
+ 
+________________________________________
+BodyAccmad()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.73
+1st and 3rd quartiles	-0.79; -0.67
+Min. and max.	-0.85; -0.61
+ 
+________________________________________
+BodyAccmax()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.67
+1st and 3rd quartiles	-0.77; -0.57
+Min. and max.	-0.87; -0.47
+ 
+________________________________________
+BodyAccmax()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.39
+1st and 3rd quartiles	-0.43; -0.35
+Min. and max.	-0.47; -0.31
+ 
+________________________________________
+BodyAccmax()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.64
+1st and 3rd quartiles	-0.68; -0.6
+Min. and max.	-0.72; -0.56
+ 
+________________________________________
+BodyAccmin()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.65
+1st and 3rd quartiles	0.59; 0.72
+Min. and max.	0.53; 0.78
+ 
+________________________________________
+BodyAccmin()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.5
+1st and 3rd quartiles	0.45; 0.56
+Min. and max.	0.39; 0.62
+ 
+________________________________________
+BodyAccmin()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.69
+1st and 3rd quartiles	0.64; 0.73
+Min. and max.	0.6; 0.77
+ 
+________________________________________
+BodyAccsma()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.71
+1st and 3rd quartiles	-0.8; -0.63
+Min. and max.	-0.88; -0.55
+ 
+________________________________________
+BodyAccenergy()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.91
+1st and 3rd quartiles	-0.95; -0.87
+Min. and max.	-1; -0.83
+ 
+________________________________________
+BodyAccenergy()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.95
+1st and 3rd quartiles	-0.97; -0.93
+Min. and max.	-0.99; -0.9
+ 
+________________________________________
+BodyAccenergy()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.92
+1st and 3rd quartiles	-0.95; -0.89
+Min. and max.	-0.98; -0.85
+ 
+________________________________________
+BodyAcciqr()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.82
+1st and 3rd quartiles	-0.89; -0.76
+Min. and max.	-0.96; -0.69
+ 
+________________________________________
+BodyAcciqr()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.76
+1st and 3rd quartiles	-0.82; -0.7
+Min. and max.	-0.88; -0.64
+ 
+________________________________________
+BodyAcciqr()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.75
+1st and 3rd quartiles	-0.8; -0.69
+Min. and max.	-0.85; -0.64
+ 
+________________________________________
+BodyAccentropy()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.08
+1st and 3rd quartiles	-0.09; -0.07
+Min. and max.	-0.1; -0.06
+ 
+________________________________________
+BodyAccentropy()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.12
+1st and 3rd quartiles	-0.12; -0.11
+Min. and max.	-0.13; -0.1
+ 
+________________________________________
+BodyAccentropy()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.15
+1st and 3rd quartiles	-0.15; -0.14
+Min. and max.	-0.16; -0.14
+ 
+________________________________________
+BodyAccarCoeff()X,1
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.13
+1st and 3rd quartiles	-0.13; -0.12
+Min. and max.	-0.14; -0.12
+ 
+________________________________________
+BodyAccarCoeff()X,2
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.09
+1st and 3rd quartiles	0.09; 0.1
+Min. and max.	0.08; 0.11
+ 
+________________________________________
+BodyAccarCoeff()X,3
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.03
+1st and 3rd quartiles	-0.03; -0.02
+Min. and max.	-0.04; -0.02
+ 
+________________________________________
+BodyAccarCoeff()X,4
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.12
+1st and 3rd quartiles	0.12; 0.13
+Min. and max.	0.12; 0.13
+ 
+________________________________________
+BodyAccarCoeff()Y,1
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.04
+1st and 3rd quartiles	-0.04; -0.03
+Min. and max.	-0.05; -0.03
+ 
+________________________________________
+BodyAccarCoeff()Y,2
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.02
+1st and 3rd quartiles	0.02; 0.03
+Min. and max.	0.02; 0.03
+ 
+________________________________________
+BodyAccarCoeff()Y,3
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.16
+1st and 3rd quartiles	0.16; 0.16
+Min. and max.	0.16; 0.16
+ 
+________________________________________
+BodyAccarCoeff()Y,4
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.02
+1st and 3rd quartiles	-0.02; -0.02
+Min. and max.	-0.02; -0.02
+ 
+________________________________________
+BodyAccarCoeff()Z,1
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.01
+1st and 3rd quartiles	0.01; 0.02
+Min. and max.	0.01; 0.02
+ 
+________________________________________
+BodyAccarCoeff()Z,2
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.02
+1st and 3rd quartiles	0.02; 0.03
+Min. and max.	0.01; 0.04
+ 
+________________________________________
+BodyAccarCoeff()Z,3
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.04
+1st and 3rd quartiles	0.04; 0.04
+Min. and max.	0.03; 0.05
+ 
+________________________________________
+BodyAccarCoeff()Z,4
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.08
+1st and 3rd quartiles	-0.08; -0.08
+Min. and max.	-0.08; -0.08
+ 
+________________________________________
+BodyAcccorrelation()X,Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.14
+1st and 3rd quartiles	-0.15; -0.13
+Min. and max.	-0.16; -0.12
+ 
+________________________________________
+BodyAcccorrelation()X,Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.19
+1st and 3rd quartiles	-0.2; -0.19
+Min. and max.	-0.2; -0.19
+ 
+________________________________________
+BodyAcccorrelation()Y,Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.12
+1st and 3rd quartiles	0.11; 0.13
+Min. and max.	0.1; 0.14
+ 
+________________________________________
+GravityAccmean()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.8
+1st and 3rd quartiles	0.73; 0.86
+Min. and max.	0.67; 0.92
+ 
+________________________________________
+GravityAccmean()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.07
+1st and 3rd quartiles	-0.11; -0.03
+Min. and max.	-0.14; 0
+ 
+________________________________________
+GravityAccmean()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.06
+1st and 3rd quartiles	0.05; 0.08
+Min. and max.	0.04; 0.09
+ 
+________________________________________
+GravityAccstd()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.97
+1st and 3rd quartiles	-0.98; -0.97
+Min. and max.	-0.98; -0.97
+ 
+________________________________________
+GravityAccstd()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.97
+1st and 3rd quartiles	-0.97; -0.96
+Min. and max.	-0.98; -0.95
+ 
+________________________________________
+GravityAccstd()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.95
+1st and 3rd quartiles	-0.96; -0.95
+Min. and max.	-0.97; -0.94
+ 
+________________________________________
+GravityAccmad()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.97
+1st and 3rd quartiles	-0.98; -0.97
+Min. and max.	-0.98; -0.97
+ 
+________________________________________
+GravityAccmad()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.97
+1st and 3rd quartiles	-0.97; -0.96
+Min. and max.	-0.98; -0.96
+ 
+________________________________________
+GravityAccmad()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.95
+1st and 3rd quartiles	-0.96; -0.95
+Min. and max.	-0.97; -0.94
+ 
+________________________________________
+GravityAccmax()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.73
+1st and 3rd quartiles	0.67; 0.8
+Min. and max.	0.61; 0.86
+ 
+________________________________________
+GravityAccmax()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.08
+1st and 3rd quartiles	-0.12; -0.05
+Min. and max.	-0.15; -0.01
+ 
+________________________________________
+GravityAccmax()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.07
+1st and 3rd quartiles	0.06; 0.08
+Min. and max.	0.04; 0.1
+ 
+________________________________________
+GravityAccmin()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.81
+1st and 3rd quartiles	0.75; 0.87
+Min. and max.	0.68; 0.93
+ 
+________________________________________
+GravityAccmin()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.06
+1st and 3rd quartiles	-0.09; -0.02
+Min. and max.	-0.13; 0.02
+ 
+________________________________________
+GravityAccmin()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.05
+1st and 3rd quartiles	0.04; 0.07
+Min. and max.	0.02; 0.08
+ 
+________________________________________
+GravityAccsma()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.11
+1st and 3rd quartiles	-0.12; -0.11
+Min. and max.	-0.13; -0.1
+ 
+________________________________________
+GravityAccenergy()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.62
+1st and 3rd quartiles	0.53; 0.7
+Min. and max.	0.45; 0.79
+ 
+________________________________________
+GravityAccenergy()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.82
+1st and 3rd quartiles	-0.86; -0.77
+Min. and max.	-0.91; -0.72
+ 
+________________________________________
+GravityAccenergy()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.86
+1st and 3rd quartiles	-0.9; -0.81
+Min. and max.	-0.95; -0.76
+ 
+________________________________________
+GravityAcciqr()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.98; -0.97
+Min. and max.	-0.98; -0.97
+ 
+________________________________________
+GravityAcciqr()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.97
+1st and 3rd quartiles	-0.97; -0.96
+Min. and max.	-0.98; -0.96
+ 
+________________________________________
+GravityAcciqr()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.96
+1st and 3rd quartiles	-0.96; -0.95
+Min. and max.	-0.97; -0.94
+ 
+________________________________________
+GravityAccentropy()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.72
+1st and 3rd quartiles	-0.74; -0.7
+Min. and max.	-0.76; -0.67
+ 
+________________________________________
+GravityAccentropy()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.93
+1st and 3rd quartiles	-0.97; -0.9
+Min. and max.	-1; -0.87
+ 
+________________________________________
+GravityAccentropy()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.72
+1st and 3rd quartiles	-0.75; -0.7
+Min. and max.	-0.78; -0.67
+ 
+________________________________________
+GravityAccarCoeff()X,1
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.51
+1st and 3rd quartiles	-0.51; -0.51
+Min. and max.	-0.51; -0.5
+ 
+________________________________________
+GravityAccarCoeff()X,2
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.55
+1st and 3rd quartiles	0.55; 0.55
+Min. and max.	0.54; 0.56
+ 
+________________________________________
+GravityAccarCoeff()X,3
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.59
+1st and 3rd quartiles	-0.59; -0.58
+Min. and max.	-0.6; -0.58
+ 
+________________________________________
+GravityAccarCoeff()X,4
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.63
+1st and 3rd quartiles	0.62; 0.64
+Min. and max.	0.62; 0.64
+ 
+________________________________________
+GravityAccarCoeff()Y,1
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.34
+1st and 3rd quartiles	-0.34; -0.34
+Min. and max.	-0.34; -0.34
+ 
+________________________________________
+GravityAccarCoeff()Y,2
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.33
+1st and 3rd quartiles	0.33; 0.33
+Min. and max.	0.33; 0.33
+ 
+________________________________________
+GravityAccarCoeff()Y,3
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.36
+1st and 3rd quartiles	-0.36; -0.36
+Min. and max.	-0.37; -0.36
+ 
+________________________________________
+GravityAccarCoeff()Y,4
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.42
+1st and 3rd quartiles	0.41; 0.42
+Min. and max.	0.41; 0.42
+ 
+________________________________________
+GravityAccarCoeff()Z,1
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.43
+1st and 3rd quartiles	-0.43; -0.43
+Min. and max.	-0.43; -0.43
+ 
+________________________________________
+GravityAccarCoeff()Z,2
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.45
+1st and 3rd quartiles	0.45; 0.45
+Min. and max.	0.45; 0.45
+ 
+________________________________________
+GravityAccarCoeff()Z,3
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.48
+1st and 3rd quartiles	-0.48; -0.48
+Min. and max.	-0.48; -0.48
+ 
+________________________________________
+GravityAccarCoeff()Z,4
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.5
+1st and 3rd quartiles	0.5; 0.5
+Min. and max.	0.5; 0.51
+ 
+________________________________________
+GravityAcccorrelation()X,Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.27
+1st and 3rd quartiles	0.22; 0.31
+Min. and max.	0.18; 0.36
+ 
+________________________________________
+GravityAcccorrelation()X,Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.16
+1st and 3rd quartiles	-0.19; -0.14
+Min. and max.	-0.22; -0.11
+ 
+________________________________________
+GravityAcccorrelation()Y,Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.13
+1st and 3rd quartiles	0.11; 0.15
+Min. and max.	0.08; 0.18
+ 
+________________________________________
+BodyAccJerkmean()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.08
+1st and 3rd quartiles	0.08; 0.08
+Min. and max.	0.08; 0.08
+ 
+________________________________________
+BodyAccJerkmean()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.01
+1st and 3rd quartiles	0.01; 0.01
+Min. and max.	0.01; 0.01
+ 
+________________________________________
+BodyAccJerkmean()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0
+1st and 3rd quartiles	0; 0
+Min. and max.	0; 0
+ 
+________________________________________
+BodyAccJerkstd()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.8
+1st and 3rd quartiles	-0.87; -0.72
+Min. and max.	-0.95; -0.64
+ 
+________________________________________
+BodyAccJerkstd()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.77
+1st and 3rd quartiles	-0.85; -0.69
+Min. and max.	-0.93; -0.61
+ 
+________________________________________
+BodyAccJerkstd()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.86
+1st and 3rd quartiles	-0.91; -0.81
+Min. and max.	-0.95; -0.76
+ 
+________________________________________
+BodyAccJerkmad()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.8
+1st and 3rd quartiles	-0.88; -0.72
+Min. and max.	-0.96; -0.64
+ 
+________________________________________
+BodyAccJerkmad()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.76
+1st and 3rd quartiles	-0.84; -0.68
+Min. and max.	-0.93; -0.59
+ 
+________________________________________
+BodyAccJerkmad()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.86
+1st and 3rd quartiles	-0.91; -0.81
+Min. and max.	-0.95; -0.76
+ 
+________________________________________
+BodyAccJerkmax()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.82
+1st and 3rd quartiles	-0.88; -0.76
+Min. and max.	-0.94; -0.7
+ 
+________________________________________
+BodyAccJerkmax()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.84
+1st and 3rd quartiles	-0.89; -0.8
+Min. and max.	-0.94; -0.75
+ 
+________________________________________
+BodyAccJerkmax()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.89
+1st and 3rd quartiles	-0.92; -0.85
+Min. and max.	-0.96; -0.82
+ 
+________________________________________
+BodyAccJerkmin()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.78
+1st and 3rd quartiles	0.7; 0.86
+Min. and max.	0.62; 0.94
+ 
+________________________________________
+BodyAccJerkmin()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.81
+1st and 3rd quartiles	0.75; 0.87
+Min. and max.	0.68; 0.93
+ 
+________________________________________
+BodyAccJerkmin()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.84
+1st and 3rd quartiles	0.79; 0.89
+Min. and max.	0.74; 0.94
+ 
+________________________________________
+BodyAccJerksma()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.8
+1st and 3rd quartiles	-0.87; -0.72
+Min. and max.	-0.95; -0.65
+ 
+________________________________________
+BodyAccJerkenergy()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.92
+1st and 3rd quartiles	-0.96; -0.89
+Min. and max.	-1; -0.85
+ 
+________________________________________
+BodyAccJerkenergy()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.91
+1st and 3rd quartiles	-0.95; -0.87
+Min. and max.	-1; -0.83
+ 
+________________________________________
+BodyAccJerkenergy()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.96
+1st and 3rd quartiles	-0.98; -0.95
+Min. and max.	-1; -0.93
+ 
+________________________________________
+BodyAccJerkiqr()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.8
+1st and 3rd quartiles	-0.88; -0.71
+Min. and max.	-0.96; -0.63
+ 
+________________________________________
+BodyAccJerkiqr()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.8
+1st and 3rd quartiles	-0.87; -0.73
+Min. and max.	-0.94; -0.66
+ 
+________________________________________
+BodyAccJerkiqr()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.86
+1st and 3rd quartiles	-0.91; -0.82
+Min. and max.	-0.96; -0.77
+ 
+________________________________________
+BodyAccJerkentropy()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.21
+1st and 3rd quartiles	-0.27; -0.15
+Min. and max.	-0.34; -0.08
+ 
+________________________________________
+BodyAccJerkentropy()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.19
+1st and 3rd quartiles	-0.24; -0.14
+Min. and max.	-0.28; -0.09
+ 
+________________________________________
+BodyAccJerkentropy()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.26
+1st and 3rd quartiles	-0.33; -0.19
+Min. and max.	-0.39; -0.13
+ 
+________________________________________
+BodyAccJerkarCoeff()X,1
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.11
+1st and 3rd quartiles	-0.11; -0.11
+Min. and max.	-0.12; -0.11
+ 
+________________________________________
+BodyAccJerkarCoeff()X,2
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.17
+1st and 3rd quartiles	0.17; 0.17
+Min. and max.	0.17; 0.17
+ 
+________________________________________
+BodyAccJerkarCoeff()X,3
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.07
+1st and 3rd quartiles	0.07; 0.07
+Min. and max.	0.07; 0.08
+ 
+________________________________________
+BodyAccJerkarCoeff()X,4
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.13
+1st and 3rd quartiles	0.13; 0.13
+Min. and max.	0.13; 0.13
+ 
+________________________________________
+BodyAccJerkarCoeff()Y,1
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.08
+1st and 3rd quartiles	-0.08; -0.08
+Min. and max.	-0.09; -0.07
+ 
+________________________________________
+BodyAccJerkarCoeff()Y,2
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.07
+1st and 3rd quartiles	0.07; 0.07
+Min. and max.	0.07; 0.07
+ 
+________________________________________
+BodyAccJerkarCoeff()Y,3
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.18
+1st and 3rd quartiles	0.18; 0.18
+Min. and max.	0.17; 0.19
+ 
+________________________________________
+BodyAccJerkarCoeff()Y,4
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.32
+1st and 3rd quartiles	0.32; 0.32
+Min. and max.	0.31; 0.32
+ 
+________________________________________
+BodyAccJerkarCoeff()Z,1
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.02
+1st and 3rd quartiles	-0.03; -0.02
+Min. and max.	-0.03; -0.01
+ 
+________________________________________
+BodyAccJerkarCoeff()Z,2
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.09
+1st and 3rd quartiles	0.09; 0.09
+Min. and max.	0.09; 0.09
+ 
+________________________________________
+BodyAccJerkarCoeff()Z,3
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.01
+1st and 3rd quartiles	0; 0.01
+Min. and max.	0; 0.01
+ 
+________________________________________
+BodyAccJerkarCoeff()Z,4
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.14
+1st and 3rd quartiles	0.14; 0.15
+Min. and max.	0.14; 0.15
+ 
+________________________________________
+BodyAccJerkcorrelation()X,Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.14
+1st and 3rd quartiles	-0.14; -0.14
+Min. and max.	-0.14; -0.14
+ 
+________________________________________
+BodyAccJerkcorrelation()X,Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.01
+1st and 3rd quartiles	0.01; 0.01
+Min. and max.	0; 0.01
+ 
+________________________________________
+BodyAccJerkcorrelation()Y,Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.08
+1st and 3rd quartiles	0.08; 0.08
+Min. and max.	0.08; 0.08
+ 
+________________________________________
+BodyGyromean()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.03
+1st and 3rd quartiles	-0.03; -0.03
+Min. and max.	-0.03; -0.03
+ 
+________________________________________
+BodyGyromean()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.07
+1st and 3rd quartiles	-0.07; -0.07
+Min. and max.	-0.07; -0.07
+ 
+________________________________________
+BodyGyromean()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.09
+1st and 3rd quartiles	0.09; 0.09
+Min. and max.	0.09; 0.09
+ 
+________________________________________
+BodyGyrostd()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.81
+1st and 3rd quartiles	-0.86; -0.77
+Min. and max.	-0.9; -0.72
+ 
+________________________________________
+BodyGyrostd()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.8
+1st and 3rd quartiles	-0.85; -0.74
+Min. and max.	-0.91; -0.68
+ 
+________________________________________
+BodyGyrostd()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.77
+1st and 3rd quartiles	-0.82; -0.71
+Min. and max.	-0.88; -0.65
+ 
+________________________________________
+BodyGyromad()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.82
+1st and 3rd quartiles	-0.86; -0.77
+Min. and max.	-0.91; -0.73
+ 
+________________________________________
+BodyGyromad()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.81
+1st and 3rd quartiles	-0.86; -0.75
+Min. and max.	-0.92; -0.69
+ 
+________________________________________
+BodyGyromad()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.78
+1st and 3rd quartiles	-0.83; -0.72
+Min. and max.	-0.89; -0.67
+ 
+________________________________________
+BodyGyromax()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.72
+1st and 3rd quartiles	-0.76; -0.68
+Min. and max.	-0.79; -0.65
+ 
+________________________________________
+BodyGyromax()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.81
+1st and 3rd quartiles	-0.85; -0.78
+Min. and max.	-0.89; -0.74
+ 
+________________________________________
+BodyGyromax()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.56
+1st and 3rd quartiles	-0.6; -0.52
+Min. and max.	-0.65; -0.48
+ 
+________________________________________
+BodyGyromin()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.7
+1st and 3rd quartiles	0.67; 0.74
+Min. and max.	0.63; 0.77
+ 
+________________________________________
+BodyGyromin()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.79
+1st and 3rd quartiles	0.76; 0.82
+Min. and max.	0.73; 0.85
+ 
+________________________________________
+BodyGyromin()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.65
+1st and 3rd quartiles	0.6; 0.7
+Min. and max.	0.56; 0.74
+ 
+________________________________________
+BodyGyrosma()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.71
+1st and 3rd quartiles	-0.77; -0.66
+Min. and max.	-0.82; -0.6
+ 
+________________________________________
+BodyGyroenergy()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.95
+1st and 3rd quartiles	-0.97; -0.92
+Min. and max.	-0.99; -0.9
+ 
+________________________________________
+BodyGyroenergy()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.94
+1st and 3rd quartiles	-0.97; -0.91
+Min. and max.	-0.99; -0.88
+ 
+________________________________________
+BodyGyroenergy()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.93
+1st and 3rd quartiles	-0.95; -0.9
+Min. and max.	-0.98; -0.87
+ 
+________________________________________
+BodyGyroiqr()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.82
+1st and 3rd quartiles	-0.87; -0.78
+Min. and max.	-0.92; -0.73
+ 
+________________________________________
+BodyGyroiqr()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.82
+1st and 3rd quartiles	-0.88; -0.77
+Min. and max.	-0.93; -0.72
+ 
+________________________________________
+BodyGyroiqr()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.81
+1st and 3rd quartiles	-0.86; -0.77
+Min. and max.	-0.91; -0.72
+ 
+________________________________________
+BodyGyroentropy()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.16
+1st and 3rd quartiles	-0.17; -0.15
+Min. and max.	-0.18; -0.14
+ 
+________________________________________
+BodyGyroentropy()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.08
+1st and 3rd quartiles	-0.09; -0.07
+Min. and max.	-0.1; -0.06
+ 
+________________________________________
+BodyGyroentropy()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.02
+1st and 3rd quartiles	-0.04; 0.01
+Min. and max.	-0.06; 0.03
+ 
+________________________________________
+BodyGyroarCoeff()X,1
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.23
+1st and 3rd quartiles	-0.24; -0.23
+Min. and max.	-0.24; -0.22
+ 
+________________________________________
+BodyGyroarCoeff()X,2
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.14
+1st and 3rd quartiles	0.14; 0.15
+Min. and max.	0.14; 0.15
+ 
+________________________________________
+BodyGyroarCoeff()X,3
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.14
+1st and 3rd quartiles	0.13; 0.14
+Min. and max.	0.13; 0.14
+ 
+________________________________________
+BodyGyroarCoeff()X,4
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.08
+1st and 3rd quartiles	-0.08; -0.08
+Min. and max.	-0.08; -0.08
+ 
+________________________________________
+BodyGyroarCoeff()Y,1
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.21
+1st and 3rd quartiles	-0.21; -0.21
+Min. and max.	-0.21; -0.2
+ 
+________________________________________
+BodyGyroarCoeff()Y,2
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.17
+1st and 3rd quartiles	0.17; 0.17
+Min. and max.	0.16; 0.17
+ 
+________________________________________
+BodyGyroarCoeff()Y,3
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.04
+1st and 3rd quartiles	-0.04; -0.04
+Min. and max.	-0.04; -0.04
+ 
+________________________________________
+BodyGyroarCoeff()Y,4
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.14
+1st and 3rd quartiles	0.14; 0.14
+Min. and max.	0.14; 0.14
+ 
+________________________________________
+BodyGyroarCoeff()Z,1
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.09
+1st and 3rd quartiles	-0.1; -0.09
+Min. and max.	-0.1; -0.09
+ 
+________________________________________
+BodyGyroarCoeff()Z,2
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.07
+1st and 3rd quartiles	0.06; 0.07
+Min. and max.	0.06; 0.07
+ 
+________________________________________
+BodyGyroarCoeff()Z,3
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0
+1st and 3rd quartiles	0; 0.01
+Min. and max.	-0.01; 0.01
+ 
+________________________________________
+BodyGyroarCoeff()Z,4
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.15
+1st and 3rd quartiles	0.15; 0.15
+Min. and max.	0.15; 0.15
+ 
+________________________________________
+BodyGyrocorrelation()X,Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.17
+1st and 3rd quartiles	-0.18; -0.17
+Min. and max.	-0.18; -0.17
+ 
+________________________________________
+BodyGyrocorrelation()X,Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0
+1st and 3rd quartiles	0; 0.01
+Min. and max.	-0.01; 0.01
+ 
+________________________________________
+BodyGyrocorrelation()Y,Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.1
+1st and 3rd quartiles	-0.1; -0.1
+Min. and max.	-0.11; -0.09
+ 
+________________________________________
+BodyGyroJerkmean()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.1
+1st and 3rd quartiles	-0.1; -0.1
+Min. and max.	-0.1; -0.1
+ 
+________________________________________
+BodyGyroJerkmean()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.04
+1st and 3rd quartiles	-0.04; -0.04
+Min. and max.	-0.04; -0.04
+ 
+________________________________________
+BodyGyroJerkmean()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.05
+1st and 3rd quartiles	-0.05; -0.05
+Min. and max.	-0.05; -0.05
+ 
+________________________________________
+BodyGyroJerkstd()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.83
+1st and 3rd quartiles	-0.88; -0.78
+Min. and max.	-0.93; -0.73
+ 
+________________________________________
+BodyGyroJerkstd()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.87
+1st and 3rd quartiles	-0.91; -0.83
+Min. and max.	-0.95; -0.79
+ 
+________________________________________
+BodyGyroJerkstd()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.85
+1st and 3rd quartiles	-0.9; -0.79
+Min. and max.	-0.95; -0.74
+ 
+________________________________________
+BodyGyroJerkmad()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.84
+1st and 3rd quartiles	-0.89; -0.78
+Min. and max.	-0.94; -0.73
+ 
+________________________________________
+BodyGyroJerkmad()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.88
+1st and 3rd quartiles	-0.92; -0.84
+Min. and max.	-0.96; -0.8
+ 
+________________________________________
+BodyGyroJerkmad()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.85
+1st and 3rd quartiles	-0.91; -0.8
+Min. and max.	-0.96; -0.75
+ 
+________________________________________
+BodyGyroJerkmax()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.84
+1st and 3rd quartiles	-0.88; -0.79
+Min. and max.	-0.93; -0.75
+ 
+________________________________________
+BodyGyroJerkmax()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.88
+1st and 3rd quartiles	-0.92; -0.85
+Min. and max.	-0.95; -0.81
+ 
+________________________________________
+BodyGyroJerkmax()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.84
+1st and 3rd quartiles	-0.89; -0.79
+Min. and max.	-0.94; -0.74
+ 
+________________________________________
+BodyGyroJerkmin()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.85
+1st and 3rd quartiles	0.8; 0.89
+Min. and max.	0.76; 0.93
+ 
+________________________________________
+BodyGyroJerkmin()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.89
+1st and 3rd quartiles	0.86; 0.93
+Min. and max.	0.83; 0.96
+ 
+________________________________________
+BodyGyroJerkmin()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.88
+1st and 3rd quartiles	0.84; 0.92
+Min. and max.	0.8; 0.96
+ 
+________________________________________
+BodyGyroJerksma()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.86
+1st and 3rd quartiles	-0.91; -0.81
+Min. and max.	-0.96; -0.77
+ 
+________________________________________
+BodyGyroJerkenergy()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.96
+1st and 3rd quartiles	-0.98; -0.94
+Min. and max.	-1; -0.92
+ 
+________________________________________
+BodyGyroJerkenergy()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.97
+1st and 3rd quartiles	-0.98; -0.95
+Min. and max.	-1; -0.94
+ 
+________________________________________
+BodyGyroJerkenergy()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.96
+1st and 3rd quartiles	-0.98; -0.94
+Min. and max.	-1; -0.92
+ 
+________________________________________
+BodyGyroJerkiqr()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.85
+1st and 3rd quartiles	-0.9; -0.79
+Min. and max.	-0.95; -0.74
+ 
+________________________________________
+BodyGyroJerkiqr()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.89
+1st and 3rd quartiles	-0.93; -0.85
+Min. and max.	-0.97; -0.81
+ 
+________________________________________
+BodyGyroJerkiqr()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.87
+1st and 3rd quartiles	-0.92; -0.82
+Min. and max.	-0.97; -0.77
+ 
+________________________________________
+BodyGyroJerkentropy()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.02
+1st and 3rd quartiles	-0.03; -0.02
+Min. and max.	-0.03; -0.02
+ 
+________________________________________
+BodyGyroJerkentropy()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.01
+1st and 3rd quartiles	0; 0.01
+Min. and max.	0; 0.02
+ 
+________________________________________
+BodyGyroJerkentropy()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.07
+1st and 3rd quartiles	-0.1; -0.04
+Min. and max.	-0.13; -0.02
+ 
+________________________________________
+BodyGyroJerkarCoeff()X,1
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.08
+1st and 3rd quartiles	-0.09; -0.08
+Min. and max.	-0.09; -0.07
+ 
+________________________________________
+BodyGyroJerkarCoeff()X,2
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.04
+1st and 3rd quartiles	0.04; 0.04
+Min. and max.	0.04; 0.04
+ 
+________________________________________
+BodyGyroJerkarCoeff()X,3
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.16
+1st and 3rd quartiles	0.16; 0.16
+Min. and max.	0.16; 0.17
+ 
+________________________________________
+BodyGyroJerkarCoeff()X,4
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.17
+1st and 3rd quartiles	0.17; 0.17
+Min. and max.	0.16; 0.17
+ 
+________________________________________
+BodyGyroJerkarCoeff()Y,1
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.17
+1st and 3rd quartiles	-0.17; -0.16
+Min. and max.	-0.17; -0.16
+ 
+________________________________________
+BodyGyroJerkarCoeff()Y,2
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.2
+1st and 3rd quartiles	0.2; 0.2
+Min. and max.	0.2; 0.2
+ 
+________________________________________
+BodyGyroJerkarCoeff()Y,3
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.09
+1st and 3rd quartiles	0.09; 0.09
+Min. and max.	0.08; 0.09
+ 
+________________________________________
+BodyGyroJerkarCoeff()Y,4
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.08
+1st and 3rd quartiles	0.08; 0.08
+Min. and max.	0.08; 0.08
+ 
+________________________________________
+BodyGyroJerkarCoeff()Z,1
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.04
+1st and 3rd quartiles	-0.05; -0.04
+Min. and max.	-0.06; -0.03
+ 
+________________________________________
+BodyGyroJerkarCoeff()Z,2
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.05
+1st and 3rd quartiles	0.05; 0.05
+Min. and max.	0.04; 0.05
+ 
+________________________________________
+BodyGyroJerkarCoeff()Z,3
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.09
+1st and 3rd quartiles	0.09; 0.09
+Min. and max.	0.09; 0.1
+ 
+________________________________________
+BodyGyroJerkarCoeff()Z,4
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.04
+1st and 3rd quartiles	0.04; 0.04
+Min. and max.	0.03; 0.04
+ 
+________________________________________
+BodyGyroJerkcorrelation()X,Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.04
+1st and 3rd quartiles	0.03; 0.04
+Min. and max.	0.03; 0.04
+ 
+________________________________________
+BodyGyroJerkcorrelation()X,Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.05
+1st and 3rd quartiles	0.05; 0.05
+Min. and max.	0.05; 0.05
+ 
+________________________________________
+BodyGyroJerkcorrelation()Y,Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.12
+1st and 3rd quartiles	-0.12; -0.11
+Min. and max.	-0.12; -0.11
+ 
+________________________________________
+BodyAccMagmean()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.71
+1st and 3rd quartiles	-0.79; -0.63
+Min. and max.	-0.87; -0.55
+ 
+________________________________________
+BodyAccMagstd()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.72
+1st and 3rd quartiles	-0.78; -0.65
+Min. and max.	-0.84; -0.59
+ 
+________________________________________
+BodyAccMagmad()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.75
+1st and 3rd quartiles	-0.81; -0.7
+Min. and max.	-0.86; -0.64
+ 
+________________________________________
+BodyAccMagmax()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.7
+1st and 3rd quartiles	-0.78; -0.63
+Min. and max.	-0.85; -0.56
+ 
+________________________________________
+BodyAccMagmin()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.9
+1st and 3rd quartiles	-0.93; -0.87
+Min. and max.	-0.97; -0.84
+ 
+________________________________________
+BodyAccMagsma()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.71
+1st and 3rd quartiles	-0.79; -0.63
+Min. and max.	-0.87; -0.55
+ 
+________________________________________
+BodyAccMagenergy()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.88
+1st and 3rd quartiles	-0.94; -0.83
+Min. and max.	-0.99; -0.78
+ 
+________________________________________
+BodyAccMagiqr()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.79
+1st and 3rd quartiles	-0.84; -0.75
+Min. and max.	-0.88; -0.7
+ 
+________________________________________
+BodyAccMagentropy()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.15
+1st and 3rd quartiles	0.14; 0.16
+Min. and max.	0.13; 0.16
+ 
+________________________________________
+BodyAccMagarCoeff()1
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.07
+1st and 3rd quartiles	-0.07; -0.07
+Min. and max.	-0.07; -0.07
+ 
+________________________________________
+BodyAccMagarCoeff()2
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.02
+1st and 3rd quartiles	0.02; 0.02
+Min. and max.	0.02; 0.02
+ 
+________________________________________
+BodyAccMagarCoeff()3
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.06
+1st and 3rd quartiles	0.06; 0.06
+Min. and max.	0.06; 0.06
+ 
+________________________________________
+BodyAccMagarCoeff()4
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.06
+1st and 3rd quartiles	-0.06; -0.05
+Min. and max.	-0.06; -0.05
+ 
+________________________________________
+GravityAccMagmean()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.71
+1st and 3rd quartiles	-0.79; -0.63
+Min. and max.	-0.87; -0.55
+ 
+________________________________________
+GravityAccMagstd()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.72
+1st and 3rd quartiles	-0.78; -0.65
+Min. and max.	-0.84; -0.59
+ 
+________________________________________
+GravityAccMagmad()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.75
+1st and 3rd quartiles	-0.81; -0.7
+Min. and max.	-0.86; -0.64
+ 
+________________________________________
+GravityAccMagmax()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.7
+1st and 3rd quartiles	-0.78; -0.63
+Min. and max.	-0.85; -0.56
+ 
+________________________________________
+GravityAccMagmin()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.9
+1st and 3rd quartiles	-0.93; -0.87
+Min. and max.	-0.97; -0.84
+ 
+________________________________________
+GravityAccMagsma()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.71
+1st and 3rd quartiles	-0.79; -0.63
+Min. and max.	-0.87; -0.55
+ 
+________________________________________
+GravityAccMagenergy()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.88
+1st and 3rd quartiles	-0.94; -0.83
+Min. and max.	-0.99; -0.78
+ 
+________________________________________
+GravityAccMagiqr()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.79
+1st and 3rd quartiles	-0.84; -0.75
+Min. and max.	-0.88; -0.7
+ 
+________________________________________
+GravityAccMagentropy()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.15
+1st and 3rd quartiles	0.14; 0.16
+Min. and max.	0.13; 0.16
+ 
+________________________________________
+GravityAccMagarCoeff()1
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.07
+1st and 3rd quartiles	-0.07; -0.07
+Min. and max.	-0.07; -0.07
+ 
+________________________________________
+GravityAccMagarCoeff()2
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.02
+1st and 3rd quartiles	0.02; 0.02
+Min. and max.	0.02; 0.02
+ 
+________________________________________
+GravityAccMagarCoeff()3
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.06
+1st and 3rd quartiles	0.06; 0.06
+Min. and max.	0.06; 0.06
+ 
+________________________________________
+GravityAccMagarCoeff()4
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.06
+1st and 3rd quartiles	-0.06; -0.05
+Min. and max.	-0.06; -0.05
+ 
+________________________________________
+BodyAccJerkMagmean()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.8
+1st and 3rd quartiles	-0.87; -0.72
+Min. and max.	-0.95; -0.65
+ 
+________________________________________
+BodyAccJerkMagstd()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.78
+1st and 3rd quartiles	-0.85; -0.7
+Min. and max.	-0.93; -0.63
+ 
+________________________________________
+BodyAccJerkMagmad()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.79
+1st and 3rd quartiles	-0.87; -0.72
+Min. and max.	-0.94; -0.65
+ 
+________________________________________
+BodyAccJerkMagmax()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.78
+1st and 3rd quartiles	-0.85; -0.71
+Min. and max.	-0.93; -0.64
+ 
+________________________________________
+BodyAccJerkMagmin()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.87
+1st and 3rd quartiles	-0.92; -0.83
+Min. and max.	-0.96; -0.79
+ 
+________________________________________
+BodyAccJerkMagsma()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.8
+1st and 3rd quartiles	-0.87; -0.72
+Min. and max.	-0.95; -0.65
+ 
+________________________________________
+BodyAccJerkMagenergy()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.92
+1st and 3rd quartiles	-0.96; -0.89
+Min. and max.	-1; -0.85
+ 
+________________________________________
+BodyAccJerkMagiqr()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.83
+1st and 3rd quartiles	-0.89; -0.76
+Min. and max.	-0.95; -0.7
+ 
+________________________________________
+BodyAccJerkMagentropy()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.19
+1st and 3rd quartiles	-0.26; -0.13
+Min. and max.	-0.32; -0.06
+ 
+________________________________________
+BodyAccJerkMagarCoeff()1
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.09
+1st and 3rd quartiles	0.08; 0.09
+Min. and max.	0.08; 0.09
+ 
+________________________________________
+BodyAccJerkMagarCoeff()2
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.04
+1st and 3rd quartiles	-0.05; -0.04
+Min. and max.	-0.06; -0.03
+ 
+________________________________________
+BodyAccJerkMagarCoeff()3
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.09
+1st and 3rd quartiles	-0.09; -0.09
+Min. and max.	-0.09; -0.09
+ 
+________________________________________
+BodyAccJerkMagarCoeff()4
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.04
+1st and 3rd quartiles	-0.05; -0.04
+Min. and max.	-0.05; -0.04
+ 
+________________________________________
+BodyGyroMagmean()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.71
+1st and 3rd quartiles	-0.77; -0.66
+Min. and max.	-0.82; -0.61
+ 
+________________________________________
+BodyGyroMagstd()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.74
+1st and 3rd quartiles	-0.79; -0.7
+Min. and max.	-0.83; -0.66
+ 
+________________________________________
+BodyGyroMagmad()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.72
+1st and 3rd quartiles	-0.76; -0.67
+Min. and max.	-0.81; -0.63
+ 
+________________________________________
+BodyGyroMagmax()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.77
+1st and 3rd quartiles	-0.81; -0.73
+Min. and max.	-0.85; -0.7
+ 
+________________________________________
+BodyGyroMagmin()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.81
+1st and 3rd quartiles	-0.84; -0.77
+Min. and max.	-0.88; -0.73
+ 
+________________________________________
+BodyGyroMagsma()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.71
+1st and 3rd quartiles	-0.77; -0.66
+Min. and max.	-0.82; -0.61
+ 
+________________________________________
+BodyGyroMagenergy()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.91
+1st and 3rd quartiles	-0.94; -0.87
+Min. and max.	-0.98; -0.83
+ 
+________________________________________
+BodyGyroMagiqr()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.74
+1st and 3rd quartiles	-0.78; -0.69
+Min. and max.	-0.82; -0.65
+ 
+________________________________________
+BodyGyroMagentropy()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.26
+1st and 3rd quartiles	0.25; 0.27
+Min. and max.	0.24; 0.29
+ 
+________________________________________
+BodyGyroMagarCoeff()1
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.03
+1st and 3rd quartiles	-0.03; -0.03
+Min. and max.	-0.03; -0.02
+ 
+________________________________________
+BodyGyroMagarCoeff()2
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.07
+1st and 3rd quartiles	-0.07; -0.07
+Min. and max.	-0.08; -0.07
+ 
+________________________________________
+BodyGyroMagarCoeff()3
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.11
+1st and 3rd quartiles	0.11; 0.11
+Min. and max.	0.11; 0.11
+ 
+________________________________________
+BodyGyroMagarCoeff()4
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.05
+1st and 3rd quartiles	-0.05; -0.05
+Min. and max.	-0.05; -0.05
+ 
+________________________________________
+BodyGyroJerkMagmean()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.86
+1st and 3rd quartiles	-0.91; -0.81
+Min. and max.	-0.96; -0.76
+ 
+________________________________________
+BodyGyroJerkMagstd()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.86
+1st and 3rd quartiles	-0.9; -0.82
+Min. and max.	-0.94; -0.78
+ 
+________________________________________
+BodyGyroJerkMagmad()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.87
+1st and 3rd quartiles	-0.91; -0.83
+Min. and max.	-0.95; -0.79
+ 
+________________________________________
+BodyGyroJerkMagmax()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.86
+1st and 3rd quartiles	-0.9; -0.82
+Min. and max.	-0.94; -0.78
+ 
+________________________________________
+BodyGyroJerkMagmin()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.89
+1st and 3rd quartiles	-0.93; -0.84
+Min. and max.	-0.97; -0.8
+ 
+________________________________________
+BodyGyroJerkMagsma()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.86
+1st and 3rd quartiles	-0.91; -0.81
+Min. and max.	-0.96; -0.76
+ 
+________________________________________
+BodyGyroJerkMagenergy()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.97
+1st and 3rd quartiles	-0.98; -0.95
+Min. and max.	-1; -0.93
+ 
+________________________________________
+BodyGyroJerkMagiqr()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.88
+1st and 3rd quartiles	-0.92; -0.84
+Min. and max.	-0.96; -0.81
+ 
+________________________________________
+BodyGyroJerkMagentropy()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.11
+1st and 3rd quartiles	0.1; 0.12
+Min. and max.	0.08; 0.13
+ 
+________________________________________
+BodyGyroJerkMagarCoeff()1
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.29
+1st and 3rd quartiles	0.29; 0.3
+Min. and max.	0.29; 0.3
+ 
+________________________________________
+BodyGyroJerkMagarCoeff()2
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.23
+1st and 3rd quartiles	-0.23; -0.23
+Min. and max.	-0.23; -0.23
+ 
+________________________________________
+BodyGyroJerkMagarCoeff()3
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.06
+1st and 3rd quartiles	-0.06; -0.06
+Min. and max.	-0.06; -0.06
+ 
+________________________________________
+BodyGyroJerkMagarCoeff()4
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.11
+1st and 3rd quartiles	-0.12; -0.11
+Min. and max.	-0.12; -0.11
+ 
+________________________________________
+V266
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.78
+1st and 3rd quartiles	-0.86; -0.7
+Min. and max.	-0.95; -0.62
+ 
+________________________________________
+V267
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.7
+1st and 3rd quartiles	-0.78; -0.62
+Min. and max.	-0.86; -0.54
+ 
+________________________________________
+V268
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.78
+1st and 3rd quartiles	-0.84; -0.72
+Min. and max.	-0.9; -0.67
+ 
+________________________________________
+V269
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.77
+1st and 3rd quartiles	-0.86; -0.69
+Min. and max.	-0.94; -0.6
+ 
+________________________________________
+V270
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.68
+1st and 3rd quartiles	-0.76; -0.6
+Min. and max.	-0.83; -0.53
+ 
+________________________________________
+V271
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.73
+1st and 3rd quartiles	-0.78; -0.67
+Min. and max.	-0.84; -0.62
+ 
+________________________________________
+V272
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.77
+1st and 3rd quartiles	-0.86; -0.68
+Min. and max.	-0.94; -0.59
+ 
+________________________________________
+V273
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.69
+1st and 3rd quartiles	-0.77; -0.61
+Min. and max.	-0.86; -0.52
+ 
+________________________________________
+V274
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.76
+1st and 3rd quartiles	-0.82; -0.69
+Min. and max.	-0.88; -0.63
+ 
+________________________________________
+V275
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.8
+1st and 3rd quartiles	-0.87; -0.72
+Min. and max.	-0.94; -0.65
+ 
+________________________________________
+V276
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.76
+1st and 3rd quartiles	-0.81; -0.71
+Min. and max.	-0.86; -0.66
+ 
+________________________________________
+V277
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.73
+1st and 3rd quartiles	-0.77; -0.68
+Min. and max.	-0.82; -0.64
+ 
+________________________________________
+V278
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.92
+1st and 3rd quartiles	-0.95; -0.89
+Min. and max.	-0.98; -0.86
+ 
+________________________________________
+V279
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.92
+1st and 3rd quartiles	-0.95; -0.9
+Min. and max.	-0.97; -0.88
+ 
+________________________________________
+V280
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.94
+1st and 3rd quartiles	-0.96; -0.93
+Min. and max.	-0.97; -0.91
+ 
+________________________________________
+V281
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.73
+1st and 3rd quartiles	-0.81; -0.64
+Min. and max.	-0.9; -0.56
+ 
+________________________________________
+V282
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.91
+1st and 3rd quartiles	-0.96; -0.87
+Min. and max.	-1; -0.83
+ 
+________________________________________
+V283
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.87
+1st and 3rd quartiles	-0.93; -0.81
+Min. and max.	-0.98; -0.75
+ 
+________________________________________
+V284
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.91
+1st and 3rd quartiles	-0.95; -0.88
+Min. and max.	-0.99; -0.84
+ 
+________________________________________
+V285
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.8
+1st and 3rd quartiles	-0.87; -0.73
+Min. and max.	-0.94; -0.65
+ 
+________________________________________
+V286
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.79
+1st and 3rd quartiles	-0.86; -0.72
+Min. and max.	-0.92; -0.65
+ 
+________________________________________
+V287
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.84
+1st and 3rd quartiles	-0.89; -0.79
+Min. and max.	-0.94; -0.75
+ 
+________________________________________
+V288
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.35
+1st and 3rd quartiles	-0.42; -0.27
+Min. and max.	-0.5; -0.2
+ 
+________________________________________
+V289
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.27
+1st and 3rd quartiles	-0.32; -0.23
+Min. and max.	-0.36; -0.18
+ 
+________________________________________
+V290
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.3
+1st and 3rd quartiles	-0.34; -0.25
+Min. and max.	-0.39; -0.2
+ 
+________________________________________
+BodyAccmaxIndsX
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.78
+1st and 3rd quartiles	-0.79; -0.77
+Min. and max.	-0.81; -0.76
+ 
+________________________________________
+BodyAccmaxIndsY
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.8
+1st and 3rd quartiles	-0.8; -0.8
+Min. and max.	-0.8; -0.8
+ 
+________________________________________
+BodyAccmaxIndsZ
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.88
+1st and 3rd quartiles	-0.9; -0.86
+Min. and max.	-0.92; -0.84
+ 
+________________________________________
+BodyAccmeanFreq()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.23
+1st and 3rd quartiles	-0.23; -0.23
+Min. and max.	-0.24; -0.22
+ 
+________________________________________
+BodyAccmeanFreq()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.01
+1st and 3rd quartiles	0.01; 0.01
+Min. and max.	0; 0.02
+ 
+________________________________________
+BodyAccmeanFreq()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.05
+1st and 3rd quartiles	0.05; 0.06
+Min. and max.	0.05; 0.06
+ 
+________________________________________
+BodyAccskewness()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.15
+1st and 3rd quartiles	-0.16; -0.15
+Min. and max.	-0.17; -0.14
+ 
+________________________________________
+BodyAcckurtosis()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.52
+1st and 3rd quartiles	-0.55; -0.49
+Min. and max.	-0.58; -0.47
+ 
+________________________________________
+BodyAccskewness()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.31
+1st and 3rd quartiles	-0.34; -0.29
+Min. and max.	-0.36; -0.27
+ 
+________________________________________
+BodyAcckurtosis()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.65
+1st and 3rd quartiles	-0.69; -0.62
+Min. and max.	-0.72; -0.58
+ 
+________________________________________
+BodyAccskewness()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.28
+1st and 3rd quartiles	-0.3; -0.26
+Min. and max.	-0.31; -0.24
+ 
+________________________________________
+BodyAcckurtosis()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.54
+1st and 3rd quartiles	-0.57; -0.51
+Min. and max.	-0.6; -0.48
+ 
+________________________________________
+BodyAccbandsEnergy()1,8
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.91
+1st and 3rd quartiles	-0.95; -0.86
+Min. and max.	-1; -0.82
+ 
+________________________________________
+BodyAccbandsEnergy()9,16
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.94
+1st and 3rd quartiles	-0.97; -0.92
+Min. and max.	-1; -0.89
+ 
+________________________________________
+BodyAccbandsEnergy()17,24
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.93
+1st and 3rd quartiles	-0.96; -0.89
+Min. and max.	-1; -0.86
+ 
+________________________________________
+BodyAccbandsEnergy()25,32
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.95
+1st and 3rd quartiles	-0.97; -0.92
+Min. and max.	-1; -0.89
+ 
+________________________________________
+BodyAccbandsEnergy()33,40
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.96
+1st and 3rd quartiles	-0.98; -0.94
+Min. and max.	-1; -0.91
+ 
+________________________________________
+BodyAccbandsEnergy()41,48
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.96
+1st and 3rd quartiles	-0.98; -0.93
+Min. and max.	-1; -0.91
+ 
+________________________________________
+BodyAccbandsEnergy()49,56
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.97
+1st and 3rd quartiles	-0.99; -0.96
+Min. and max.	-1; -0.95
+ 
+________________________________________
+BodyAccbandsEnergy()57,64
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.97
+Min. and max.	-1; -0.96
+ 
+________________________________________
+BodyAccbandsEnergy()1,16
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.91
+1st and 3rd quartiles	-0.95; -0.87
+Min. and max.	-1; -0.82
+ 
+________________________________________
+BodyAccbandsEnergy()17,32
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.92
+1st and 3rd quartiles	-0.96; -0.88
+Min. and max.	-1; -0.85
+ 
+________________________________________
+BodyAccbandsEnergy()33,48
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.96
+1st and 3rd quartiles	-0.98; -0.94
+Min. and max.	-1; -0.91
+ 
+________________________________________
+BodyAccbandsEnergy()49,64
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.97
+1st and 3rd quartiles	-0.99; -0.96
+Min. and max.	-1; -0.95
+ 
+________________________________________
+BodyAccbandsEnergy()1,24
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.91
+1st and 3rd quartiles	-0.95; -0.87
+Min. and max.	-1; -0.82
+ 
+________________________________________
+BodyAccbandsEnergy()25,48
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.94
+1st and 3rd quartiles	-0.97; -0.91
+Min. and max.	-1; -0.88
+ 
+________________________________________
+V317
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.89
+1st and 3rd quartiles	-0.93; -0.84
+Min. and max.	-0.98; -0.79
+ 
+________________________________________
+V318
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.92
+1st and 3rd quartiles	-0.96; -0.88
+Min. and max.	-1; -0.85
+ 
+________________________________________
+V319
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.93
+1st and 3rd quartiles	-0.96; -0.89
+Min. and max.	-1; -0.86
+ 
+________________________________________
+V320
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.95
+1st and 3rd quartiles	-0.97; -0.93
+Min. and max.	-1; -0.9
+ 
+________________________________________
+V321
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.95
+1st and 3rd quartiles	-0.97; -0.92
+Min. and max.	-1; -0.9
+ 
+________________________________________
+V322
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.94
+1st and 3rd quartiles	-0.97; -0.91
+Min. and max.	-0.99; -0.88
+ 
+________________________________________
+V323
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.95
+1st and 3rd quartiles	-0.97; -0.93
+Min. and max.	-0.99; -0.9
+ 
+________________________________________
+V324
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.96
+Min. and max.	-1; -0.95
+ 
+________________________________________
+V325
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.87
+1st and 3rd quartiles	-0.93; -0.82
+Min. and max.	-0.98; -0.76
+ 
+________________________________________
+V326
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.92
+1st and 3rd quartiles	-0.96; -0.88
+Min. and max.	-1; -0.84
+ 
+________________________________________
+V327
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.94
+1st and 3rd quartiles	-0.97; -0.91
+Min. and max.	-0.99; -0.88
+ 
+________________________________________
+V328
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.96
+1st and 3rd quartiles	-0.98; -0.94
+Min. and max.	-1; -0.92
+ 
+________________________________________
+V329
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.87
+1st and 3rd quartiles	-0.93; -0.81
+Min. and max.	-0.98; -0.75
+ 
+________________________________________
+V330
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.94
+1st and 3rd quartiles	-0.97; -0.92
+Min. and max.	-1; -0.89
+ 
+________________________________________
+V331
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.92
+1st and 3rd quartiles	-0.95; -0.89
+Min. and max.	-0.98; -0.86
+ 
+________________________________________
+V332
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.95
+1st and 3rd quartiles	-0.97; -0.92
+Min. and max.	-1; -0.9
+ 
+________________________________________
+V333
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.96
+1st and 3rd quartiles	-0.98; -0.94
+Min. and max.	-1; -0.93
+ 
+________________________________________
+V334
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.97
+Min. and max.	-1; -0.96
+ 
+________________________________________
+V335
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.97
+Min. and max.	-1; -0.96
+ 
+________________________________________
+V336
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.97
+1st and 3rd quartiles	-0.98; -0.95
+Min. and max.	-1; -0.94
+ 
+________________________________________
+V337
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.97
+1st and 3rd quartiles	-0.98; -0.96
+Min. and max.	-1; -0.94
+ 
+________________________________________
+V338
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.97
+Min. and max.	-1; -0.96
+ 
+________________________________________
+V339
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.92
+1st and 3rd quartiles	-0.95; -0.89
+Min. and max.	-0.99; -0.85
+ 
+________________________________________
+V340
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.97
+1st and 3rd quartiles	-0.98; -0.95
+Min. and max.	-1; -0.94
+ 
+________________________________________
+V341
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.97
+Min. and max.	-1; -0.95
+ 
+________________________________________
+V342
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.97
+1st and 3rd quartiles	-0.98; -0.96
+Min. and max.	-1; -0.95
+ 
+________________________________________
+V343
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.91
+1st and 3rd quartiles	-0.95; -0.88
+Min. and max.	-0.99; -0.84
+ 
+________________________________________
+V344
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.97
+Min. and max.	-1; -0.96
+ 
+________________________________________
+V345
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.8
+1st and 3rd quartiles	-0.88; -0.73
+Min. and max.	-0.95; -0.66
+ 
+________________________________________
+V346
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.78
+1st and 3rd quartiles	-0.85; -0.7
+Min. and max.	-0.93; -0.63
+ 
+________________________________________
+V347
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.85
+1st and 3rd quartiles	-0.9; -0.79
+Min. and max.	-0.95; -0.74
+ 
+________________________________________
+V348
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.81
+1st and 3rd quartiles	-0.88; -0.73
+Min. and max.	-0.96; -0.65
+ 
+________________________________________
+V349
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.77
+1st and 3rd quartiles	-0.85; -0.69
+Min. and max.	-0.93; -0.61
+ 
+________________________________________
+V350
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.87
+1st and 3rd quartiles	-0.91; -0.83
+Min. and max.	-0.96; -0.78
+ 
+________________________________________
+V351
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.77
+1st and 3rd quartiles	-0.86; -0.68
+Min. and max.	-0.95; -0.59
+ 
+________________________________________
+V352
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.78
+1st and 3rd quartiles	-0.85; -0.7
+Min. and max.	-0.93; -0.62
+ 
+________________________________________
+V353
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.86
+1st and 3rd quartiles	-0.91; -0.81
+Min. and max.	-0.95; -0.76
+ 
+________________________________________
+V354
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.84
+1st and 3rd quartiles	-0.9; -0.78
+Min. and max.	-0.97; -0.71
+ 
+________________________________________
+V355
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.81
+1st and 3rd quartiles	-0.88; -0.75
+Min. and max.	-0.94; -0.68
+ 
+________________________________________
+V356
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.88
+1st and 3rd quartiles	-0.92; -0.84
+Min. and max.	-0.96; -0.8
+ 
+________________________________________
+V357
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.93
+1st and 3rd quartiles	-0.96; -0.91
+Min. and max.	-0.98; -0.88
+ 
+________________________________________
+V358
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.92
+1st and 3rd quartiles	-0.94; -0.89
+Min. and max.	-0.97; -0.86
+ 
+________________________________________
+V359
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.93
+1st and 3rd quartiles	-0.95; -0.91
+Min. and max.	-0.97; -0.88
+ 
+________________________________________
+V360
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.78
+1st and 3rd quartiles	-0.86; -0.7
+Min. and max.	-0.94; -0.62
+ 
+________________________________________
+V361
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.92
+1st and 3rd quartiles	-0.96; -0.89
+Min. and max.	-1; -0.85
+ 
+________________________________________
+V362
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.91
+1st and 3rd quartiles	-0.95; -0.87
+Min. and max.	-1; -0.83
+ 
+________________________________________
+V363
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.96
+1st and 3rd quartiles	-0.98; -0.95
+Min. and max.	-1; -0.93
+ 
+________________________________________
+V364
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.79
+1st and 3rd quartiles	-0.87; -0.71
+Min. and max.	-0.95; -0.63
+ 
+________________________________________
+V365
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.83
+1st and 3rd quartiles	-0.89; -0.78
+Min. and max.	-0.94; -0.72
+ 
+________________________________________
+V366
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.86
+1st and 3rd quartiles	-0.91; -0.82
+Min. and max.	-0.95; -0.77
+ 
+________________________________________
+V367
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.47
+1st and 3rd quartiles	-0.58; -0.37
+Min. and max.	-0.68; -0.27
+ 
+________________________________________
+V368
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.44
+1st and 3rd quartiles	-0.53; -0.35
+Min. and max.	-0.62; -0.27
+ 
+________________________________________
+V369
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.52
+1st and 3rd quartiles	-0.59; -0.44
+Min. and max.	-0.67; -0.37
+ 
+________________________________________
+BodyAccJerkmaxIndsX
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.41
+1st and 3rd quartiles	-0.41; -0.4
+Min. and max.	-0.41; -0.4
+ 
+________________________________________
+BodyAccJerkmaxIndsY
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.4
+1st and 3rd quartiles	-0.4; -0.4
+Min. and max.	-0.4; -0.4
+ 
+________________________________________
+BodyAccJerkmaxIndsZ
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.32
+1st and 3rd quartiles	-0.32; -0.32
+Min. and max.	-0.32; -0.32
+ 
+________________________________________
+BodyAccJerkmeanFreq()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.05
+1st and 3rd quartiles	-0.05; -0.05
+Min. and max.	-0.05; -0.05
+ 
+________________________________________
+BodyAccJerkmeanFreq()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.22
+1st and 3rd quartiles	-0.23; -0.22
+Min. and max.	-0.24; -0.21
+ 
+________________________________________
+BodyAccJerkmeanFreq()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.11
+1st and 3rd quartiles	-0.12; -0.11
+Min. and max.	-0.12; -0.1
+ 
+________________________________________
+BodyAccJerkskewness()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.33
+1st and 3rd quartiles	-0.34; -0.32
+Min. and max.	-0.35; -0.32
+ 
+________________________________________
+BodyAccJerkkurtosis()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.74
+1st and 3rd quartiles	-0.76; -0.73
+Min. and max.	-0.77; -0.71
+ 
+________________________________________
+BodyAccJerkskewness()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.41
+1st and 3rd quartiles	-0.42; -0.41
+Min. and max.	-0.42; -0.4
+ 
+________________________________________
+BodyAccJerkkurtosis()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.84
+1st and 3rd quartiles	-0.85; -0.83
+Min. and max.	-0.86; -0.82
+ 
+________________________________________
+BodyAccJerkskewness()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.5
+1st and 3rd quartiles	-0.51; -0.5
+Min. and max.	-0.52; -0.49
+ 
+________________________________________
+BodyAccJerkkurtosis()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.84
+1st and 3rd quartiles	-0.85; -0.83
+Min. and max.	-0.86; -0.82
+ 
+________________________________________
+BodyAccJerkbandsEnergy()1,8
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.93
+1st and 3rd quartiles	-0.97; -0.9
+Min. and max.	-1; -0.87
+ 
+________________________________________
+BodyAccJerkbandsEnergy()9,16
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.94
+1st and 3rd quartiles	-0.97; -0.91
+Min. and max.	-1; -0.89
+ 
+________________________________________
+BodyAccJerkbandsEnergy()17,24
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.94
+1st and 3rd quartiles	-0.97; -0.9
+Min. and max.	-1; -0.87
+ 
+________________________________________
+BodyAccJerkbandsEnergy()25,32
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.95
+1st and 3rd quartiles	-0.97; -0.92
+Min. and max.	-1; -0.9
+ 
+________________________________________
+BodyAccJerkbandsEnergy()33,40
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.96
+1st and 3rd quartiles	-0.98; -0.94
+Min. and max.	-1; -0.92
+ 
+________________________________________
+BodyAccJerkbandsEnergy()41,48
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.95
+1st and 3rd quartiles	-0.97; -0.93
+Min. and max.	-1; -0.9
+ 
+________________________________________
+BodyAccJerkbandsEnergy()49,56
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.97
+1st and 3rd quartiles	-0.99; -0.96
+Min. and max.	-1; -0.95
+ 
+________________________________________
+BodyAccJerkbandsEnergy()57,64
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.99
+1st and 3rd quartiles	-1; -0.99
+Min. and max.	-1; -0.98
+ 
+________________________________________
+BodyAccJerkbandsEnergy()1,16
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.93
+1st and 3rd quartiles	-0.97; -0.9
+Min. and max.	-1; -0.87
+ 
+________________________________________
+BodyAccJerkbandsEnergy()17,32
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.93
+1st and 3rd quartiles	-0.96; -0.89
+Min. and max.	-1; -0.85
+ 
+________________________________________
+BodyAccJerkbandsEnergy()33,48
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.95
+1st and 3rd quartiles	-0.98; -0.93
+Min. and max.	-1; -0.91
+ 
+________________________________________
+BodyAccJerkbandsEnergy()49,64
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.97
+1st and 3rd quartiles	-0.99; -0.96
+Min. and max.	-1; -0.94
+ 
+________________________________________
+BodyAccJerkbandsEnergy()1,24
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.92
+1st and 3rd quartiles	-0.96; -0.88
+Min. and max.	-1; -0.85
+ 
+________________________________________
+BodyAccJerkbandsEnergy()25,48
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.93
+1st and 3rd quartiles	-0.96; -0.9
+Min. and max.	-1; -0.86
+ 
+________________________________________
+V396
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.91
+1st and 3rd quartiles	-0.96; -0.87
+Min. and max.	-1; -0.83
+ 
+________________________________________
+V397
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.93
+1st and 3rd quartiles	-0.97; -0.9
+Min. and max.	-1; -0.87
+ 
+________________________________________
+V398
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.92
+1st and 3rd quartiles	-0.96; -0.88
+Min. and max.	-1; -0.84
+ 
+________________________________________
+V399
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.95
+1st and 3rd quartiles	-0.98; -0.93
+Min. and max.	-1; -0.91
+ 
+________________________________________
+V400
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.96
+1st and 3rd quartiles	-0.98; -0.94
+Min. and max.	-1; -0.92
+ 
+________________________________________
+V401
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.94
+1st and 3rd quartiles	-0.97; -0.91
+Min. and max.	-1; -0.88
+ 
+________________________________________
+V402
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.96
+1st and 3rd quartiles	-0.98; -0.94
+Min. and max.	-1; -0.92
+ 
+________________________________________
+V403
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.99
+1st and 3rd quartiles	-0.99; -0.98
+Min. and max.	-1; -0.97
+ 
+________________________________________
+V404
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.92
+1st and 3rd quartiles	-0.96; -0.88
+Min. and max.	-1; -0.84
+ 
+________________________________________
+V405
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.92
+1st and 3rd quartiles	-0.96; -0.88
+Min. and max.	-1; -0.84
+ 
+________________________________________
+V406
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.94
+1st and 3rd quartiles	-0.97; -0.91
+Min. and max.	-1; -0.88
+ 
+________________________________________
+V407
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.96
+1st and 3rd quartiles	-0.98; -0.95
+Min. and max.	-1; -0.93
+ 
+________________________________________
+V408
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.9
+1st and 3rd quartiles	-0.95; -0.86
+Min. and max.	-1; -0.81
+ 
+________________________________________
+V409
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.95
+1st and 3rd quartiles	-0.97; -0.92
+Min. and max.	-1; -0.9
+ 
+________________________________________
+V410
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.95
+1st and 3rd quartiles	-0.97; -0.92
+Min. and max.	-1; -0.9
+ 
+________________________________________
+V411
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.95
+1st and 3rd quartiles	-0.97; -0.92
+Min. and max.	-1; -0.9
+ 
+________________________________________
+V412
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.97
+1st and 3rd quartiles	-0.98; -0.95
+Min. and max.	-1; -0.93
+ 
+________________________________________
+V413
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.97
+Min. and max.	-1; -0.96
+ 
+________________________________________
+V414
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.98
+Min. and max.	-1; -0.97
+ 
+________________________________________
+V415
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.97
+1st and 3rd quartiles	-0.98; -0.96
+Min. and max.	-1; -0.94
+ 
+________________________________________
+V416
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.96
+1st and 3rd quartiles	-0.98; -0.95
+Min. and max.	-1; -0.93
+ 
+________________________________________
+V417
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.99
+1st and 3rd quartiles	-0.99; -0.98
+Min. and max.	-1; -0.97
+ 
+________________________________________
+V418
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.94
+1st and 3rd quartiles	-0.97; -0.91
+Min. and max.	-1; -0.88
+ 
+________________________________________
+V419
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.97
+1st and 3rd quartiles	-0.99; -0.96
+Min. and max.	-1; -0.95
+ 
+________________________________________
+V420
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.97
+Min. and max.	-1; -0.96
+ 
+________________________________________
+V421
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.97
+1st and 3rd quartiles	-0.98; -0.95
+Min. and max.	-1; -0.93
+ 
+________________________________________
+V422
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.95
+1st and 3rd quartiles	-0.97; -0.92
+Min. and max.	-1; -0.9
+ 
+________________________________________
+V423
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.97
+Min. and max.	-1; -0.96
+ 
+________________________________________
+V424
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.78
+1st and 3rd quartiles	-0.84; -0.73
+Min. and max.	-0.89; -0.67
+ 
+________________________________________
+V425
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.81
+1st and 3rd quartiles	-0.87; -0.76
+Min. and max.	-0.92; -0.71
+ 
+________________________________________
+V426
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.77
+1st and 3rd quartiles	-0.83; -0.71
+Min. and max.	-0.89; -0.64
+ 
+________________________________________
+V427
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.82
+1st and 3rd quartiles	-0.86; -0.78
+Min. and max.	-0.91; -0.74
+ 
+________________________________________
+V428
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.79
+1st and 3rd quartiles	-0.85; -0.73
+Min. and max.	-0.91; -0.67
+ 
+________________________________________
+V429
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.79
+1st and 3rd quartiles	-0.84; -0.74
+Min. and max.	-0.89; -0.69
+ 
+________________________________________
+V430
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.79
+1st and 3rd quartiles	-0.84; -0.74
+Min. and max.	-0.89; -0.69
+ 
+________________________________________
+V431
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.82
+1st and 3rd quartiles	-0.87; -0.76
+Min. and max.	-0.92; -0.71
+ 
+________________________________________
+V432
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.76
+1st and 3rd quartiles	-0.83; -0.7
+Min. and max.	-0.89; -0.64
+ 
+________________________________________
+V433
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.82
+1st and 3rd quartiles	-0.86; -0.78
+Min. and max.	-0.91; -0.74
+ 
+________________________________________
+V434
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.83
+1st and 3rd quartiles	-0.87; -0.78
+Min. and max.	-0.92; -0.73
+ 
+________________________________________
+V435
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.84
+1st and 3rd quartiles	-0.87; -0.8
+Min. and max.	-0.91; -0.76
+ 
+________________________________________
+V436
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.96
+1st and 3rd quartiles	-0.97; -0.94
+Min. and max.	-0.98; -0.93
+ 
+________________________________________
+V437
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.94
+1st and 3rd quartiles	-0.96; -0.92
+Min. and max.	-0.97; -0.9
+ 
+________________________________________
+V438
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.94
+1st and 3rd quartiles	-0.96; -0.92
+Min. and max.	-0.97; -0.91
+ 
+________________________________________
+V439
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.78
+1st and 3rd quartiles	-0.84; -0.72
+Min. and max.	-0.9; -0.66
+ 
+________________________________________
+V440
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.96
+1st and 3rd quartiles	-0.98; -0.94
+Min. and max.	-0.99; -0.92
+ 
+________________________________________
+V441
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.94
+1st and 3rd quartiles	-0.97; -0.91
+Min. and max.	-1; -0.89
+ 
+________________________________________
+V442
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.93
+1st and 3rd quartiles	-0.96; -0.9
+Min. and max.	-0.99; -0.87
+ 
+________________________________________
+V443
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.82
+1st and 3rd quartiles	-0.87; -0.76
+Min. and max.	-0.93; -0.71
+ 
+________________________________________
+V444
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.85
+1st and 3rd quartiles	-0.89; -0.8
+Min. and max.	-0.94; -0.75
+ 
+________________________________________
+V445
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.82
+1st and 3rd quartiles	-0.87; -0.76
+Min. and max.	-0.93; -0.7
+ 
+________________________________________
+V446
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.13
+1st and 3rd quartiles	-0.15; -0.11
+Min. and max.	-0.17; -0.09
+ 
+________________________________________
+V447
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.09
+1st and 3rd quartiles	-0.11; -0.07
+Min. and max.	-0.13; -0.05
+ 
+________________________________________
+V448
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.2
+1st and 3rd quartiles	-0.22; -0.17
+Min. and max.	-0.25; -0.15
+ 
+________________________________________
+BodyGyromaxIndsX
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.91
+1st and 3rd quartiles	-0.92; -0.89
+Min. and max.	-0.93; -0.88
+ 
+________________________________________
+BodyGyromaxIndsY
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.87
+1st and 3rd quartiles	-0.9; -0.83
+Min. and max.	-0.94; -0.8
+ 
+________________________________________
+BodyGyromaxIndsZ
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.87
+1st and 3rd quartiles	-0.9; -0.84
+Min. and max.	-0.93; -0.81
+ 
+________________________________________
+BodyGyromeanFreq()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.1
+1st and 3rd quartiles	-0.1; -0.1
+Min. and max.	-0.1; -0.1
+ 
+________________________________________
+BodyGyromeanFreq()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.17
+1st and 3rd quartiles	-0.17; -0.17
+Min. and max.	-0.17; -0.17
+ 
+________________________________________
+BodyGyromeanFreq()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.05
+1st and 3rd quartiles	-0.05; -0.05
+Min. and max.	-0.05; -0.05
+ 
+________________________________________
+BodyGyroskewness()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.2
+1st and 3rd quartiles	-0.21; -0.19
+Min. and max.	-0.22; -0.18
+ 
+________________________________________
+BodyGyrokurtosis()X
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.54
+1st and 3rd quartiles	-0.56; -0.52
+Min. and max.	-0.58; -0.49
+ 
+________________________________________
+BodyGyroskewness()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.21
+1st and 3rd quartiles	-0.23; -0.2
+Min. and max.	-0.25; -0.18
+ 
+________________________________________
+BodyGyrokurtosis()Y
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.6
+1st and 3rd quartiles	-0.63; -0.56
+Min. and max.	-0.66; -0.53
+ 
+________________________________________
+BodyGyroskewness()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.24
+1st and 3rd quartiles	-0.26; -0.23
+Min. and max.	-0.27; -0.21
+ 
+________________________________________
+BodyGyrokurtosis()Z
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.58
+1st and 3rd quartiles	-0.61; -0.56
+Min. and max.	-0.64; -0.53
+ 
+________________________________________
+BodyGyrobandsEnergy()1,8
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.96
+1st and 3rd quartiles	-0.98; -0.95
+Min. and max.	-1; -0.93
+ 
+________________________________________
+BodyGyrobandsEnergy()9,16
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.95
+1st and 3rd quartiles	-0.97; -0.93
+Min. and max.	-1; -0.91
+ 
+________________________________________
+BodyGyrobandsEnergy()17,24
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.96
+1st and 3rd quartiles	-0.98; -0.94
+Min. and max.	-1; -0.92
+ 
+________________________________________
+BodyGyrobandsEnergy()25,32
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.97
+Min. and max.	-1; -0.96
+ 
+________________________________________
+BodyGyrobandsEnergy()33,40
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.97
+1st and 3rd quartiles	-0.99; -0.96
+Min. and max.	-1; -0.95
+ 
+________________________________________
+BodyGyrobandsEnergy()41,48
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.96
+Min. and max.	-1; -0.95
+ 
+________________________________________
+BodyGyrobandsEnergy()49,56
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.97
+Min. and max.	-1; -0.96
+ 
+________________________________________
+BodyGyrobandsEnergy()57,64
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.99
+1st and 3rd quartiles	-0.99; -0.98
+Min. and max.	-1; -0.98
+ 
+________________________________________
+BodyGyrobandsEnergy()1,16
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.96
+1st and 3rd quartiles	-0.98; -0.94
+Min. and max.	-1; -0.92
+ 
+________________________________________
+BodyGyrobandsEnergy()17,32
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.96
+1st and 3rd quartiles	-0.98; -0.94
+Min. and max.	-1; -0.92
+ 
+________________________________________
+BodyGyrobandsEnergy()33,48
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.97
+1st and 3rd quartiles	-0.98; -0.96
+Min. and max.	-1; -0.95
+ 
+________________________________________
+BodyGyrobandsEnergy()49,64
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.98
+Min. and max.	-1; -0.97
+ 
+________________________________________
+BodyGyrobandsEnergy()1,24
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.96
+1st and 3rd quartiles	-0.98; -0.94
+Min. and max.	-1; -0.92
+ 
+________________________________________
+BodyGyrobandsEnergy()25,48
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.97
+Min. and max.	-1; -0.95
+ 
+________________________________________
+V475
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.94
+1st and 3rd quartiles	-0.97; -0.91
+Min. and max.	-0.99; -0.88
+ 
+________________________________________
+V476
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.97
+Min. and max.	-1; -0.96
+ 
+________________________________________
+V477
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.97
+Min. and max.	-1; -0.96
+ 
+________________________________________
+V478
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.98
+Min. and max.	-1; -0.97
+ 
+________________________________________
+V479
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.99
+1st and 3rd quartiles	-0.99; -0.98
+Min. and max.	-1; -0.98
+ 
+________________________________________
+V480
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.97
+Min. and max.	-1; -0.96
+ 
+________________________________________
+V481
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.96
+Min. and max.	-1; -0.95
+ 
+________________________________________
+V482
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.99
+1st and 3rd quartiles	-0.99; -0.98
+Min. and max.	-1; -0.98
+ 
+________________________________________
+V483
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.94
+1st and 3rd quartiles	-0.97; -0.92
+Min. and max.	-1; -0.89
+ 
+________________________________________
+V484
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.96
+Min. and max.	-1; -0.95
+ 
+________________________________________
+V485
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.99
+1st and 3rd quartiles	-0.99; -0.98
+Min. and max.	-1; -0.97
+ 
+________________________________________
+V486
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.97
+Min. and max.	-1; -0.96
+ 
+________________________________________
+V487
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.94
+1st and 3rd quartiles	-0.97; -0.91
+Min. and max.	-1; -0.88
+ 
+________________________________________
+V488
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.97
+Min. and max.	-1; -0.97
+ 
+________________________________________
+V489
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.95
+1st and 3rd quartiles	-0.97; -0.92
+Min. and max.	-0.99; -0.9
+ 
+________________________________________
+V490
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.97
+1st and 3rd quartiles	-0.98; -0.95
+Min. and max.	-1; -0.93
+ 
+________________________________________
+V491
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.97
+1st and 3rd quartiles	-0.98; -0.95
+Min. and max.	-1; -0.93
+ 
+________________________________________
+V492
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.97
+Min. and max.	-1; -0.97
+ 
+________________________________________
+V493
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.98
+Min. and max.	-1; -0.97
+ 
+________________________________________
+V494
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.97
+Min. and max.	-1; -0.96
+ 
+________________________________________
+V495
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.97
+1st and 3rd quartiles	-0.98; -0.96
+Min. and max.	-1; -0.95
+ 
+________________________________________
+V496
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.98
+Min. and max.	-1; -0.97
+ 
+________________________________________
+V497
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.94
+1st and 3rd quartiles	-0.96; -0.91
+Min. and max.	-0.99; -0.88
+ 
+________________________________________
+V498
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.96
+1st and 3rd quartiles	-0.98; -0.94
+Min. and max.	-1; -0.92
+ 
+________________________________________
+V499
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.98
+Min. and max.	-1; -0.97
+ 
+________________________________________
+V500
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.97
+Min. and max.	-1; -0.96
+ 
+________________________________________
+V501
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.93
+1st and 3rd quartiles	-0.96; -0.9
+Min. and max.	-0.99; -0.87
+ 
+________________________________________
+V502
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.98
+1st and 3rd quartiles	-0.99; -0.97
+Min. and max.	-1; -0.97
+ 
+________________________________________
+V503
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.73
+1st and 3rd quartiles	-0.8; -0.66
+Min. and max.	-0.88; -0.59
+ 
+________________________________________
+V504
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.76
+1st and 3rd quartiles	-0.81; -0.71
+Min. and max.	-0.85; -0.66
+ 
+________________________________________
+V505
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.73
+1st and 3rd quartiles	-0.79; -0.66
+Min. and max.	-0.85; -0.6
+ 
+________________________________________
+V506
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.82
+1st and 3rd quartiles	-0.85; -0.79
+Min. and max.	-0.88; -0.76
+ 
+________________________________________
+V507
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.93
+1st and 3rd quartiles	-0.95; -0.91
+Min. and max.	-0.97; -0.89
+ 
+________________________________________
+V508
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.73
+1st and 3rd quartiles	-0.8; -0.66
+Min. and max.	-0.88; -0.59
+ 
+________________________________________
+V509
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.9
+1st and 3rd quartiles	-0.95; -0.86
+Min. and max.	-0.99; -0.82
+ 
+________________________________________
+V510
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.81
+1st and 3rd quartiles	-0.87; -0.75
+Min. and max.	-0.93; -0.69
+ 
+________________________________________
+V511
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.27
+1st and 3rd quartiles	-0.31; -0.23
+Min. and max.	-0.35; -0.19
+ 
+________________________________________
+BodyAccMagmaxInds
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.77
+1st and 3rd quartiles	-0.78; -0.76
+Min. and max.	-0.79; -0.75
+ 
+________________________________________
+BodyAccMagmeanFreq()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.07
+1st and 3rd quartiles	0.07; 0.08
+Min. and max.	0.07; 0.08
+ 
+________________________________________
+BodyAccMagskewness()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.39
+1st and 3rd quartiles	-0.41; -0.37
+Min. and max.	-0.42; -0.35
+ 
+________________________________________
+BodyAccMagkurtosis()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.68
+1st and 3rd quartiles	-0.71; -0.66
+Min. and max.	-0.73; -0.63
+ 
+________________________________________
+BodyBodyAccJerkMagmean()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.77
+1st and 3rd quartiles	-0.85; -0.7
+Min. and max.	-0.93; -0.62
+ 
+________________________________________
+BodyBodyAccJerkMagstd()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.78
+1st and 3rd quartiles	-0.85; -0.71
+Min. and max.	-0.93; -0.64
+ 
+________________________________________
+BodyBodyAccJerkMagmad()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.77
+1st and 3rd quartiles	-0.85; -0.69
+Min. and max.	-0.92; -0.61
+ 
+________________________________________
+BodyBodyAccJerkMagmax()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.81
+1st and 3rd quartiles	-0.87; -0.75
+Min. and max.	-0.94; -0.68
+ 
+________________________________________
+BodyBodyAccJerkMagmin()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.88
+1st and 3rd quartiles	-0.92; -0.84
+Min. and max.	-0.96; -0.8
+ 
+________________________________________
+BodyBodyAccJerkMagsma()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.77
+1st and 3rd quartiles	-0.85; -0.7
+Min. and max.	-0.93; -0.62
+ 
+________________________________________
+BodyBodyAccJerkMagenergy()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.92
+1st and 3rd quartiles	-0.96; -0.88
+Min. and max.	-1; -0.84
+ 
+________________________________________
+BodyBodyAccJerkMagiqr()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.81
+1st and 3rd quartiles	-0.88; -0.74
+Min. and max.	-0.94; -0.68
+ 
+________________________________________
+BodyBodyAccJerkMagentropy()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.51
+1st and 3rd quartiles	-0.6; -0.42
+Min. and max.	-0.68; -0.34
+ 
+________________________________________
+BodyBodyAccJerkMagmaxInds
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.89
+1st and 3rd quartiles	-0.9; -0.88
+Min. and max.	-0.9; -0.88
+ 
+________________________________________
+BodyBodyAccJerkMagmeanFreq()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.17
+1st and 3rd quartiles	0.17; 0.17
+Min. and max.	0.16; 0.17
+ 
+________________________________________
+BodyBodyAccJerkMagskewness()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.32
+1st and 3rd quartiles	-0.34; -0.31
+Min. and max.	-0.35; -0.3
+ 
+________________________________________
+BodyBodyAccJerkMagkurtosis()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.66
+1st and 3rd quartiles	-0.69; -0.63
+Min. and max.	-0.71; -0.6
+ 
+________________________________________
+BodyBodyGyroMagmean()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.79
+1st and 3rd quartiles	-0.83; -0.74
+Min. and max.	-0.88; -0.7
+ 
+________________________________________
+BodyBodyGyroMagstd()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.76
+1st and 3rd quartiles	-0.8; -0.73
+Min. and max.	-0.83; -0.7
+ 
+________________________________________
+BodyBodyGyroMagmad()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.76
+1st and 3rd quartiles	-0.8; -0.72
+Min. and max.	-0.85; -0.68
+ 
+________________________________________
+BodyBodyGyroMagmax()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.78
+1st and 3rd quartiles	-0.8; -0.76
+Min. and max.	-0.83; -0.73
+ 
+________________________________________
+BodyBodyGyroMagmin()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.92
+1st and 3rd quartiles	-0.94; -0.91
+Min. and max.	-0.96; -0.89
+ 
+________________________________________
+BodyBodyGyroMagsma()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.79
+1st and 3rd quartiles	-0.83; -0.74
+Min. and max.	-0.88; -0.7
+ 
+________________________________________
+BodyBodyGyroMagenergy()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.93
+1st and 3rd quartiles	-0.96; -0.91
+Min. and max.	-0.98; -0.88
+ 
+________________________________________
+BodyBodyGyroMagiqr()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.82
+1st and 3rd quartiles	-0.86; -0.77
+Min. and max.	-0.91; -0.72
+ 
+________________________________________
+BodyBodyGyroMagentropy()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.12
+1st and 3rd quartiles	-0.14; -0.1
+Min. and max.	-0.16; -0.08
+ 
+________________________________________
+BodyBodyGyroMagmaxInds
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.92
+1st and 3rd quartiles	-0.93; -0.9
+Min. and max.	-0.95; -0.89
+ 
+________________________________________
+BodyBodyGyroMagmeanFreq()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.05
+1st and 3rd quartiles	-0.05; -0.04
+Min. and max.	-0.05; -0.04
+ 
+________________________________________
+BodyBodyGyroMagskewness()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.29
+1st and 3rd quartiles	-0.3; -0.28
+Min. and max.	-0.32; -0.26
+ 
+________________________________________
+BodyBodyGyroMagkurtosis()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.62
+1st and 3rd quartiles	-0.64; -0.6
+Min. and max.	-0.66; -0.58
+ 
+________________________________________
+BodyBodyGyroJerkMagmean()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.86
+1st and 3rd quartiles	-0.9; -0.82
+Min. and max.	-0.95; -0.78
+ 
+________________________________________
+BodyBodyGyroJerkMagstd()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.87
+1st and 3rd quartiles	-0.9; -0.83
+Min. and max.	-0.94; -0.79
+ 
+________________________________________
+BodyBodyGyroJerkMagmad()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.85
+1st and 3rd quartiles	-0.89; -0.81
+Min. and max.	-0.94; -0.77
+ 
+________________________________________
+BodyBodyGyroJerkMagmax()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.88
+1st and 3rd quartiles	-0.91; -0.84
+Min. and max.	-0.94; -0.81
+ 
+________________________________________
+BodyBodyGyroJerkMagmin()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.92
+1st and 3rd quartiles	-0.95; -0.9
+Min. and max.	-0.97; -0.87
+ 
+________________________________________
+BodyBodyGyroJerkMagsma()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.86
+1st and 3rd quartiles	-0.9; -0.82
+Min. and max.	-0.95; -0.78
+ 
+________________________________________
+BodyBodyGyroJerkMagenergy()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.97
+1st and 3rd quartiles	-0.98; -0.95
+Min. and max.	-1; -0.94
+ 
+________________________________________
+BodyBodyGyroJerkMagiqr()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.86
+1st and 3rd quartiles	-0.9; -0.82
+Min. and max.	-0.94; -0.77
+ 
+________________________________________
+BodyBodyGyroJerkMagentropy()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.34
+1st and 3rd quartiles	-0.38; -0.31
+Min. and max.	-0.41; -0.27
+ 
+________________________________________
+BodyBodyGyroJerkMagmaxInds
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.9
+1st and 3rd quartiles	-0.9; -0.9
+Min. and max.	-0.9; -0.9
+ 
+________________________________________
+BodyBodyGyroJerkMagmeanFreq()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.13
+1st and 3rd quartiles	0.13; 0.13
+Min. and max.	0.13; 0.14
+ 
+________________________________________
+BodyBodyGyroJerkMagskewness()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.32
+1st and 3rd quartiles	-0.33; -0.31
+Min. and max.	-0.34; -0.3
+ 
+________________________________________
+BodyBodyGyroJerkMagkurtosis()
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.66
+1st and 3rd quartiles	-0.68; -0.64
+Min. and max.	-0.7; -0.62
+ 
+________________________________________
+ngle(tBodyAccMean,gravity)
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.01
+1st and 3rd quartiles	0.01; 0.01
+Min. and max.	0.01; 0.01
+ 
+________________________________________
+ngle(tBodyAccJerkMean),gravit
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.01
+1st and 3rd quartiles	0; 0.01
+Min. and max.	0; 0.01
+ 
+________________________________________
+ngle(tBodyGyroMean,gravityMea
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.02
+1st and 3rd quartiles	0.02; 0.02
+Min. and max.	0.02; 0.02
+[](codebook_dd3_files/figure-docx/Var-557-ngle(tBodyGyroMean,gravityMea-1.png)
+________________________________________
+ngle(tBodyGyroJerkMean,gravit
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.01
+1st and 3rd quartiles	-0.01; -0.01
+Min. and max.	-0.01; -0.01
+[](codebook_dd3_files/figure-docx/Var-558-ngle(tBodyGyroJerkMean,gravit-1.png)
+________________________________________
+ngle(X,gravityMean)
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.61
+1st and 3rd quartiles	-0.66; -0.55
+Min. and max.	-0.72; -0.5
+ 
+________________________________________
+ngle(Y,gravityMean)
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	0.12
+1st and 3rd quartiles	0.09; 0.15
+Min. and max.	0.06; 0.18
+ 
+________________________________________
+ngle(Z,gravityMean)
+Feature	Result
+Variable type	numeric
+Number of missing obs.	0 (0 %)
+Number of unique values	2
+Median	-0.03
+1st and 3rd quartiles	-0.04; -0.02
+Min. and max.	-0.05; 0
+ 
+________________________________________
+
